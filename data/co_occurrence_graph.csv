@@ -1,0 +1,4085 @@
+sym1,sym2,count
+coronavirus,virus,34
+anxieti,virus,28
+covid,virus,26
+cough,virus,19
+covid 19,virus,18
+anxieti,covid,16
+coronavirus,cough,15
+pandem,virus,14
+coronavirus,covid,13
+nightmar,virus,13
+cough,covid,10
+fever,virus,10
+coronavirus,covid 19,8
+corona virus,virus,8
+coronavirus,nightmar,8
+covid,fever,8
+covid,pandem,7
+corona,virus,7
+anxieti,coronavirus,7
+cough,fever,6
+coronavirus,fever,6
+anxieti,cough,6
+corona,coronavirus,6
+infect,virus,6
+covid 19,fever,6
+asthma,virus,6
+corona virus,coronavirus,6
+anxieti,covid 19,5
+covid,covid 19,5
+flu,virus,5
+covid19,virus,5
+anxieti,nightmar,5
+corona virus,cough,4
+infect,pandem,4
+asthma,cough,4
+anxieti,fear,4
+coronavirus,stress,4
+coronavirus,pandem,4
+anxieti,trouble breath,4
+cough,covid 19,4
+cough,flu,3
+covid 19,shortness of breath,3
+coronavirus,depress,3
+anxieti,flu,3
+cancer,covid,3
+corona,cough,3
+covid 19,sore throat,3
+struggling to breath,virus,3
+covid,sore throat,3
+covid 19,pandem,3
+cancer,pandem,3
+covid,nightmar,3
+coronavirus,infect,3
+asthma,covid 19,3
+anxieti,depress,3
+cough,nightmar,3
+coronavirus,trouble breath,3
+stress,virus,3
+cough,trouble breath,3
+nightmar,ptsd,3
+anxieti,corona virus,3
+covid,trouble breath,3
+coronavirus,sore throat,3
+trouble breath,virus,3
+flush,panic,2
+hyperventil,panic,2
+ebola,virus,2
+fever,sore throat,2
+fever,pandem,2
+covid,heart attack,2
+sar,virus,2
+fever,sweat,2
+cancer,fever,2
+covid,vomit,2
+sleep paralysi,virus,2
+breathing problem,virus,2
+coronavirus,couldnt breath,2
+cancer,coronavirus,2
+asthma,gasping for air,2
+nightmar,panic attack,2
+anxieti,anxious,2
+pain,virus,2
+anxious,fever,2
+cough,couldnt breath,2
+anxious,virus,2
+anxieti,sweat,2
+covid,loss of control,2
+covid,covid virus,2
+coronavirus,loss of control,2
+anxieti,shortness of breath,2
+severe asthma,virus,2
+covid 19,nightmar,2
+cancer,covid 19,2
+pneumonia,virus,2
+covid,panic attack,2
+high fev,terrible cough,2
+cough,pandem,2
+anxieti,wake up in a pan,2
+covid,sick,2
+covid,flu,2
+covid,intense pain,2
+anxieti,panic,2
+cough,sick,2
+covid 19,infect,2
+covid19,pneumonia,2
+anxieti,pain,2
+choke,covid,2
+covid,shortness of breath,2
+cough,sweat,2
+corona,covid 19,2
+insomnia,nightmar,2
+gasping for air,trouble breath,2
+fear,shame,2
+cough,difficulty breath,2
+coronavirus,social distanc,2
+sense of loss,virus,2
+gasping for air,virus,2
+sore throat,trouble breath,2
+bug,covid,2
+fever,shortness of breath,2
+cough,vomit,2
+dry cough,fever,2
+allergi,covid,2
+anxieti,panic attack,2
+loneli,nightmar,2
+dementia,virus,2
+coronavirus,sleep paralysi,2
+covid 19,dry mouth,2
+exhaust,virus,2
+corona virus,covid 19,2
+anxieti,chest pain,2
+covid 19,fear,2
+anxieti,stress,2
+breathing difficulti,fever,2
+covid 19,feeling his hair getting all mussed up,2
+covid,stress,2
+panick,virus,2
+allergi,nightmar,2
+covid 19,vomit,2
+covid 19,flu,2
+allergi,virus,2
+covid,infect,2
+tire,virus,2
+fever,tire,2
+felt weak,virus,2
+anxieti,mild sore throat,2
+anxieti,sore throat,2
+covid,stroke,2
+covid,heart condit,2
+anxieti,pandem,2
+covid 19,vivid dream,2
+bad cough,coronavirus,2
+covid,not being able to breath,2
+feeling his hair getting all mussed up,virus,2
+covid 19,sweat,2
+asthma,covid,2
+cough,phlegm,2
+gasping for air,nightmar,2
+covid,sleep paralysi,2
+sweat,virus,2
+pins and needl,stung my big to,1
+exhaust,groggi,1
+coronavirus,lupus,1
+groggi,rough headach,1
+sweaty and terrifi,woke up feeling hot,1
+emotional pain,woke up feeling hot,1
+sad feeling in my chest,woke up feeling hot,1
+coronavirus,skin canc,1
+emotional pain,sweaty and terrifi,1
+gasping for air,loneli,1
+sad feeling in my chest,sweaty and terrifi,1
+lupus,skin canc,1
+pins and needl,wake up screaming in pain,1
+lupus,ra,1
+stress,tidal wav,1
+heart palpit,sweat,1
+anxiety ridden,heart palpit,1
+anxiety ridden,sweat,1
+ra,skin canc,1
+lack of sleep,seizure disord,1
+lack of sleep,seizur,1
+emotional pain,sad feeling in my chest,1
+virus,woke up in the middle of the night to go to the bathroom,1
+problems breath,virus,1
+blood went from his scalp to his palm,writh,1
+breathing heavi,can not breath,1
+breathing heavi,gasping for air,1
+tears were forming in my ey,virus,1
+can not breath,gasping for air,1
+feeling my breath on the mask getting warm and the mask getting slightly damp,felt as though i was unprotect,1
+unable to take in any breath,worried about my breath,1
+felt a sense of dread,lose buoy,1
+pain,stress,1
+cough,tears in my ey,1
+blood went from his scalp to his palm,screaming and sob,1
+stung my big to,wake up screaming in pain,1
+screaming and sob,writh,1
+heart hurts with sad,pain in my heart,1
+cough,tears were forming in my ey,1
+nightmar,tire,1
+tears in my ey,woke up shak,1
+virus,woke up shak,1
+exhaust,rough headach,1
+tears were forming in my ey,woke up shak,1
+cough,woke up shak,1
+coronavirus,ra,1
+seizur,seizure disord,1
+lack of sleep,stress,1
+afraid and vulner,coughing up green goo,1
+nightmar,standoffish,1
+coronavirus,standoffish,1
+corona,red blist,1
+red blist,virus,1
+measl,red blist,1
+corona,measl,1
+measl,virus,1
+coughing up green goo,sharp pain,1
+holding my breath,nightmar,1
+coughing up green goo,fear,1
+bruis,covid,1
+heart lung diseas,skin canc,1
+coronavirus,heart lung diseas,1
+coughing up green goo,legs and body spasm uncontrol,1
+gasping for air,holding my breath,1
+afraid and vulner,sharp pain,1
+fear,sharp pain,1
+covid,unconsci,1
+legs and body spasm uncontrol,sharp pain,1
+afraid and vulner,fear,1
+heart lung diseas,lupus,1
+extremely daz,virus,1
+highly disturbing dream,stroke,1
+gasping for air,hurt my skin,1
+tears in my ey,virus,1
+seizure disord,stress,1
+lupus,unexplained swel,1
+seizur,stress,1
+chill,cold sweat,1
+chest is heavi,chill,1
+chill,virus,1
+feeling nerv,virus,1
+chest is heavi,cold sweat,1
+skin canc,unexplained swel,1
+cold sweat,virus,1
+anxieti,feeling nerv,1
+chest is heavi,virus,1
+anxiety provok,bad cough,1
+coronavirus,heightened stress,1
+malaria,virus,1
+covid,mass pan,1
+coronavirus,unexplained swel,1
+ra,unexplained swel,1
+tears in my ey,tears were forming in my ey,1
+breathing became extremely difficult,covid,1
+gasping for air,increasingly more difficult to breath,1
+cough,terrible cough,1
+evil laught,heart pounding in my head,1
+bruised looking landscap,mass of black smok,1
+heart pounding in my head,trembl,1
+anxieti,hgh anxieti,1
+fighting to breath,virus,1
+fighting to breath,struggling to breath,1
+corona,lung diseas,1
+diseas,virus,1
+cochenill,parasit,1
+cough,high fev,1
+evil laught,trembl,1
+depress,overwhelming grief,1
+coronavirus,overwhelming grief,1
+epilept,virus,1
+epilept,nightmar,1
+panicking and breathing hard,virus,1
+corona,covid,1
+covid,food desert,1
+corona,food desert,1
+very weird dream,wake up feeling sick,1
+mass of black smok,virus,1
+heart pounding in my head,shake,1
+coronavirus,peanut allergi,1
+deep sleep,flexed a lot,1
+bald patch,thinning hair,1
+bald patch,unable to open my ey,1
+bald patch,flexed a lot,1
+bald patch,deep sleep,1
+thinning hair,unable to open my ey,1
+flexed a lot,thinning hair,1
+deep sleep,thinning hair,1
+flexed a lot,unable to open my ey,1
+deep sleep,unable to open my ey,1
+holding my breath,loneli,1
+shake,trembl,1
+jolted awak,shake,1
+hurt my skin,loneli,1
+bruised looking landscap,virus,1
+felt cold,heard a heartbeat,1
+fear,legs and body spasm uncontrol,1
+evil laught,jolted awak,1
+jolted awak,trembl,1
+heart pounding in my head,jolted awak,1
+evil laught,shake,1
+overweight,sick to my stomach with uneas,1
+overweight,virus,1
+panicking and breathing hard,sweating a little bit and feeling like ive just run up a flight a stair,1
+sweati,waking up worri,1
+covid19,despair,1
+coughing up blood,pneumonia,1
+breathing became extremely difficult,chest felt tight,1
+gasping for air,leaking wat,1
+bug,virus,1
+hurt my skin,nightmar,1
+coughing up blood,covid19,1
+anxious,waking up worri,1
+gasping for air,leak,1
+bad kne,knee surgeri,1
+sweating a little bit and feeling like ive just run up a flight a stair,virus,1
+bad kne,corona virus,1
+chest felt tight,covid,1
+corona virus,knee surgeri,1
+anxious,sweati,1
+breathing heavi,increasingly more difficult to breath,1
+cough,waking up worri,1
+anxious,cough,1
+can not breath,increasingly more difficult to breath,1
+cough,sweati,1
+leak,leaking wat,1
+fever,very weird dream,1
+gasping for air,struggling for breath,1
+leak,struggling for breath,1
+arms were overflow,overweight,1
+sick to my stomach with uneas,virus,1
+acute feelings it evok,loneli,1
+arms were overflow,sick to my stomach with uneas,1
+covid19,loneli,1
+arms were overflow,virus,1
+covered with lots of hair,long hair,1
+acute feelings it evok,covid19,1
+despair,loneli,1
+bellyach,longitudinal bump,1
+anxieti,covid anxieti,1
+corona,long,1
+felt a little bit anxi,virus,1
+holding my breath,hurt my skin,1
+acute feelings it evok,despair,1
+empti,loneli,1
+cough,shortness of breath,1
+fever,wake up feeling sick,1
+leaking wat,struggling for breath,1
+afraid and vulner,legs and body spasm uncontrol,1
+bad cough,skin on my lower legs and feet started to blister and ble,1
+acid rain,recurring nightmar,1
+feeling a sense of deep lost,repetitive and hopeless,1
+insomnia,sense of urg,1
+insomnia,recurrent dream,1
+insomnia,repetitive and hopeless,1
+deep anguish,insomnia,1
+feeling a sense of deep lost,insomnia,1
+recurrent dream,sense of urg,1
+repetitive and hopeless,sense of urg,1
+deep anguish,sense of urg,1
+feeling a sense of deep lost,sense of urg,1
+recurrent dream,repetitive and hopeless,1
+deep anguish,recurrent dream,1
+feeling a sense of deep lost,recurrent dream,1
+deep anguish,repetitive and hopeless,1
+deep anguish,feeling a sense of deep lost,1
+coronavirus,deep anguish,1
+extreme deja vu,nightmar,1
+panic,tachycardia,1
+pain,tachycardia,1
+cri,tachycardia,1
+nightmar,tachycardia,1
+pain,panic,1
+cri,panic,1
+nightmar,panic,1
+cri,pain,1
+nightmar,pain,1
+cri,nightmar,1
+coronavirus,vironavirus,1
+choking with some peace of fruit in my throat,virus,1
+coronavirus,feeling a sense of deep lost,1
+coronavirus,repetitive and hopeless,1
+insomnia,sense of loss,1
+anguish,nightmar,1
+recurrent dream,sense of loss,1
+repetitive and hopeless,sense of loss,1
+deep anguish,sense of loss,1
+feeling a sense of deep lost,sense of loss,1
+deep sense of grief,nightmar,1
+anguish,deep sense of grief,1
+coronavirus,deep sense of grief,1
+deep sense of grief,insomnia,1
+deep sense of grief,sense of urg,1
+deep sense of grief,recurrent dream,1
+deep sense of grief,repetitive and hopeless,1
+deep anguish,deep sense of grief,1
+deep sense of grief,feeling a sense of deep lost,1
+nightmar,sense of urg,1
+coronavirus,recurrent dream,1
+nightmar,recurrent dream,1
+nightmar,repetitive and hopeless,1
+deep anguish,nightmar,1
+feeling a sense of deep lost,nightmar,1
+anguish,coronavirus,1
+anguish,insomnia,1
+anguish,sense of urg,1
+anguish,recurrent dream,1
+anguish,repetitive and hopeless,1
+anguish,deep anguish,1
+anguish,feeling a sense of deep lost,1
+coronavirus,insomnia,1
+coronavirus,sense of urg,1
+cannot bring us from the deep to the top for air,intense fear as the ability to breathe becomes less and less,1
+cannot bring us from the deep to the top for air,corona virus,1
+cannot bring us from the deep to the top for air,yelling out loud and thrash,1
+depress,weak leg,1
+bleeding out,coronavirus,1
+large cut in my forearm,pain,1
+corona,felt very lon,1
+skin chang,stooping postur,1
+skin chang,teeth blacken,1
+stooping postur,teeth blacken,1
+virus,which was down to my should,1
+cold,felt confused and disori,1
+neck surgeri,virus,1
+coma,emaci,1
+dog was acting really weird,gash on his ear,1
+bleeding ear,dog was acting really weird,1
+bleeding ear,gash on his ear,1
+depress,skin on my feet and ankles reduce down to normal s,1
+corona virus,intense fear as the ability to breathe becomes less and less,1
+depress,parasitic worm,1
+depress,roundworm,1
+depress,feet and legs were swollen,1
+depress,trauma,1
+depress,extreme behavioral problem,1
+skin on my feet and ankles reduce down to normal s,weak leg,1
+parasitic worm,weak leg,1
+roundworm,weak leg,1
+anxieti,weak leg,1
+feet and legs were swollen,weak leg,1
+trauma,weak leg,1
+extreme behavioral problem,weak leg,1
+parasitic worm,skin on my feet and ankles reduce down to normal s,1
+anxious and agit,sore,1
+large bump,sore,1
+anxious and agit,large bump,1
+coronavirus,sore,1
+intense fear as the ability to breathe becomes less and less,yelling out loud and thrash,1
+corona virus,yelling out loud and thrash,1
+black hole in the ski,coronavirus,1
+black hol,coronavirus,1
+black hol,black hole in the ski,1
+coughing and hack,virus,1
+breathing in sob,coughing and hack,1
+breathing in sob,virus,1
+poor sleep,soar throat,1
+nightmar,soar throat,1
+gasping for air,soar throat,1
+lost my voic,soar throat,1
+nightmar,poor sleep,1
+gasping for air,poor sleep,1
+lost my voic,poor sleep,1
+lost my voic,nightmar,1
+gasping for air,lost my voic,1
+covid,tornado,1
+dreams seem more heavi,grief,1
+dreams seem more heavi,surreal pain,1
+grief,surreal pain,1
+coronavirus,headach,1
+headach,large bump,1
+anxious and agit,headach,1
+headach,sore,1
+coronavirus,large bump,1
+anxious and agit,coronavirus,1
+sense of loss,sense of urg,1
+coronavirus,sense of loss,1
+afraid of height,covid,1
+depress,specific nightmar,1
+breathing difficulti,covid,1
+covid,male figure who seems to be reaching out to grab my arm or leg,1
+fever,very vivid dream,1
+very vivid dream,virus,1
+heart lung diseas,ra,1
+asthma,trouble breath,1
+lungs were making odd sound,trouble breath,1
+asthma,lungs were making odd sound,1
+covid,lungs were making odd sound,1
+depress,diffus,1
+depress,impulse to hid,1
+depress,earworm,1
+depress,feel anguish,1
+depress,sense of loss,1
+fever,male figure who seems to be reaching out to grab my arm or leg,1
+deep sense of grief,depress,1
+depress,nightmar,1
+anguish,depress,1
+depress,insomnia,1
+depress,sense of urg,1
+depress,recurrent dream,1
+depress,repetitive and hopeless,1
+deep anguish,depress,1
+depress,feeling a sense of deep lost,1
+diffus,impulse to hid,1
+diffus,earworm,1
+diffus,feel anguish,1
+diffus,specific nightmar,1
+breathing difficulti,male figure who seems to be reaching out to grab my arm or leg,1
+covid,weak,1
+anguish,sense of loss,1
+pregnanc,trouble going to sleep,1
+afraid of height,motionsick,1
+covid,motionsick,1
+cough,stress dream,1
+stress dream,virus,1
+kind of distant and distract,pain,1
+grumpi,pain,1
+pain,pregnanc,1
+pain,trouble going to sleep,1
+grumpi,kind of distant and distract,1
+kind of distant and distract,pregnanc,1
+kind of distant and distract,trouble going to sleep,1
+grumpi,pregnanc,1
+grumpi,trouble going to sleep,1
+coronavirus,strong feeling of dread and grief,1
+male figure who seems to be reaching out to grab my arm or leg,weak,1
+exhaust,lose her bal,1
+physical feeling of restraint,ptsd,1
+ptsd,trauma,1
+night terror,ptsd,1
+nightmar,physical feeling of restraint,1
+physical feeling of restraint,trauma,1
+night terror,physical feeling of restraint,1
+nightmar,trauma,1
+night terror,nightmar,1
+night terror,trauma,1
+cellul,shingl,1
+fever,weak,1
+breathing difficulti,weak,1
+diffus,sense of loss,1
+deep sense of grief,diffus,1
+diffus,nightmar,1
+deep anguish,feel anguish,1
+earworm,repetitive and hopeless,1
+deep anguish,earworm,1
+earworm,feeling a sense of deep lost,1
+feel anguish,specific nightmar,1
+feel anguish,sense of loss,1
+deep sense of grief,feel anguish,1
+feel anguish,nightmar,1
+anguish,feel anguish,1
+coronavirus,feel anguish,1
+feel anguish,insomnia,1
+feel anguish,sense of urg,1
+feel anguish,recurrent dream,1
+feel anguish,repetitive and hopeless,1
+feel anguish,feeling a sense of deep lost,1
+anguish,diffus,1
+sense of loss,specific nightmar,1
+deep sense of grief,specific nightmar,1
+nightmar,specific nightmar,1
+anguish,specific nightmar,1
+coronavirus,specific nightmar,1
+insomnia,specific nightmar,1
+sense of urg,specific nightmar,1
+recurrent dream,specific nightmar,1
+repetitive and hopeless,specific nightmar,1
+deep anguish,specific nightmar,1
+feeling a sense of deep lost,specific nightmar,1
+deep sense of grief,sense of loss,1
+nightmar,sense of loss,1
+earworm,recurrent dream,1
+earworm,sense of urg,1
+earworm,insomnia,1
+coronavirus,earworm,1
+coronavirus,diffus,1
+diffus,insomnia,1
+diffus,sense of urg,1
+diffus,recurrent dream,1
+diffus,repetitive and hopeless,1
+deep anguish,diffus,1
+diffus,feeling a sense of deep lost,1
+earworm,impulse to hid,1
+feel anguish,impulse to hid,1
+impulse to hid,specific nightmar,1
+impulse to hid,sense of loss,1
+deep sense of grief,impulse to hid,1
+impulse to hid,nightmar,1
+anguish,impulse to hid,1
+coronavirus,impulse to hid,1
+impulse to hid,insomnia,1
+impulse to hid,sense of urg,1
+impulse to hid,recurrent dream,1
+impulse to hid,repetitive and hopeless,1
+deep anguish,impulse to hid,1
+feeling a sense of deep lost,impulse to hid,1
+earworm,feel anguish,1
+earworm,specific nightmar,1
+earworm,sense of loss,1
+deep sense of grief,earworm,1
+earworm,nightmar,1
+anguish,earworm,1
+anxieti,blood on the towel,1
+heavy with smoke and ash,termit,1
+heart lung diseas,unexplained swel,1
+feeling scared and worri,virus,1
+over whelming sense of dread or pan,virus,1
+hands are cold,over whelming sense of dread or pan,1
+covid,hands are cold,1
+hands are cold,virus,1
+heart diseas,virus,1
+bad sweat,brain tumor,1
+diabet,lose sleep,1
+injury on my right foot,lose sleep,1
+diabet,injury on my right foot,1
+breaking out into hot sweat,covid19,1
+blue cold and limp,not being able to breath,1
+not being able to breath,wake up scream,1
+blue cold and limp,wake up scream,1
+sleep paralysis episod,virus,1
+bleed,blood all down my leg,1
+inability to breath,struggling to breath,1
+inability to breath,virus,1
+couldnt breath,woke up in the middle of the night scream,1
+anxieti,super groggy with no motiv,1
+anxieti,social isol,1
+covid,social isol,1
+teeth start to fall out,warm water running down my leg,1
+blood all down my leg,warm water running down my leg,1
+mouth is numb,warm water running down my leg,1
+bleed,warm water running down my leg,1
+blood all down my leg,teeth start to fall out,1
+mouth is numb,teeth start to fall out,1
+bleed,teeth start to fall out,1
+covid,over whelming sense of dread or pan,1
+stress,unable to remember dream,1
+comorbl,stress,1
+sneez,stress,1
+low immun,pneumonia,1
+anxieti,low immun,1
+low immun,type 1 diabet,1
+heart pati,low immun,1
+disrupted sleep or nightmar,pneumonia,1
+anxieti,disrupted sleep or nightmar,1
+disrupted sleep or nightmar,type 1 diabet,1
+disrupted sleep or nightmar,heart pati,1
+anxieti,pneumonia,1
+pneumonia,type 1 diabet,1
+heart pati,pneumonia,1
+anxieti,type 1 diabet,1
+anxieti,heart pati,1
+heart pati,type 1 diabet,1
+lockdown,virus,1
+pandemia,stress,1
+cerebral canc,pandemia,1
+coronavirus,pandemia,1
+cancer,pandemia,1
+cerebral canc,stress,1
+cancer,stress,1
+cerebral canc,coronavirus,1
+cancer,cerebral canc,1
+feeling scar,nightmar,1
+coronavirus,feel extremely uncomfort,1
+coronavirus,nose started to ble,1
+comorbl,sneez,1
+blood all down my leg,mouth is numb,1
+bleed,mouth is numb,1
+heart pati,virus,1
+night terror,wake up sweating and extremely distraught,1
+respiratory distress,stroke,1
+mess continues to rise higher and higher in the toilet,urgency to pe,1
+mess continues to rise higher and higher in the toilet,watery mess reaches the brim,1
+urgency to pe,watery mess reaches the brim,1
+c19,virus,1
+c19,diminished lung capac,1
+diminished lung capac,virus,1
+gasping for air and was suffoc,large gaping wound,1
+feverish,serious pain,1
+covid 19,serious pain,1
+covid 19,feverish,1
+asthma attack,wheez,1
+badly bruised my outer thigh,restless,1
+everything started getting dark,volcanic cloud,1
+footsteps coming down the hal,wake up gasp,1
+everything started getting dark,trouble breath,1
+everything started getting dark,heart condit,1
+everything started getting dark,felt myself feeling claustrophob,1
+covid,everything started getting dark,1
+everything started getting dark,grasshopp,1
+trouble breath,volcanic cloud,1
+heart condit,volcanic cloud,1
+felt myself feeling claustrophob,volcanic cloud,1
+covid,volcanic cloud,1
+grasshopp,volcanic cloud,1
+heart condit,trouble breath,1
+felt myself feeling claustrophob,trouble breath,1
+grasshopp,trouble breath,1
+covid,respiratory distress,1
+heart attack,respiratory distress,1
+heart attack,stroke,1
+feeling so weak and sick,work up and was thirsti,1
+overdos,sick,1
+pandem,sick,1
+covid virus,sick,1
+covid 19 virus,sick,1
+cough,overdos,1
+cough,covid virus,1
+cough,covid 19 virus,1
+overdos,pandem,1
+covid virus,overdos,1
+covid,overdos,1
+covid 19 virus,overdos,1
+covid virus,pandem,1
+covid 19 virus,pandem,1
+covid 19 virus,covid virus,1
+covid,covid 19 virus,1
+crack,pain,1
+migrain,shoulders was tense and sting,1
+pandem,viral pandem,1
+noticed that their skin seemed to be decay,wounds in their chest,1
+virus,wounds in their chest,1
+noticed that their skin seemed to be decay,virus,1
+exhausted and short of breath,respiratory failur,1
+exhausted and short of breath,generally restless,1
+corona virus,exhausted and short of breath,1
+generally restless,respiratory failur,1
+corona virus,respiratory failur,1
+corona virus,generally restless,1
+disrupted sleep or nightmar,low immun,1
+type 1 diabet,virus,1
+mucusy lump,oscillating wav,1
+influenza b,nightmar,1
+breathing issu,kidney so hurt intens,1
+influenza b,kidney so hurt intens,1
+embarrassing incontin,kidney so hurt intens,1
+allergi,flu,1
+allergi,suffoc,1
+allergi,covid antibodi,1
+allergi,breathing issu,1
+allergi,influenza b,1
+allergi,embarrassing incontin,1
+flu,nightmar,1
+nightmar,suffoc,1
+covid antibodi,nightmar,1
+breathing issu,nightmar,1
+embarrassing incontin,nightmar,1
+embarrassing incontin,influenza b,1
+flu,suffoc,1
+covid antibodi,flu,1
+breathing issu,flu,1
+flu,influenza b,1
+embarrassing incontin,flu,1
+covid antibodi,suffoc,1
+breathing issu,suffoc,1
+influenza b,suffoc,1
+embarrassing incontin,suffoc,1
+breathing issu,covid antibodi,1
+covid antibodi,influenza b,1
+covid antibodi,embarrassing incontin,1
+breathing issu,influenza b,1
+covid antibodi,kidney so hurt intens,1
+kidney so hurt intens,suffoc,1
+flu,kidney so hurt intens,1
+kidney so hurt intens,nightmar,1
+fever,influenza a,1
+influenza a,virus,1
+influenza a,kidney so hurt intens,1
+allergi,influenza a,1
+influenza a,nightmar,1
+flu,influenza a,1
+influenza a,suffoc,1
+covid antibodi,influenza a,1
+breathing issu,influenza a,1
+influenza a,influenza b,1
+embarrassing incontin,influenza a,1
+fever,kidney so hurt intens,1
+allergi,fever,1
+fever,nightmar,1
+fever,flu,1
+fever,suffoc,1
+covid antibodi,fever,1
+breathing issu,fever,1
+fever,influenza b,1
+embarrassing incontin,fever,1
+kidney so hurt intens,virus,1
+suffoc,virus,1
+covid antibodi,virus,1
+breathing issu,virus,1
+influenza b,virus,1
+embarrassing incontin,virus,1
+allergi,kidney so hurt intens,1
+breathing issu,embarrassing incontin,1
+coughing and wheez,virus,1
+disrupted sleep or nightmar,virus,1
+anxieti,bat,1
+cardiaqu,maladi,1
+corona virus,pneumoni,1
+du,pneumoni,1
+pneumoni,une infect,1
+maladi,pneumoni,1
+corona virus,du,1
+corona virus,une infect,1
+corona virus,maladi,1
+du,une infect,1
+du,maladi,1
+maladi,une infect,1
+mental health,mental health issu,1
+grasshopp,overcast,1
+anxieti,very dark and creepi,1
+coughing and wheez,covid 19,1
+bat,covid,1
+covid,very dark and creepi,1
+bat,very dark and creepi,1
+mentally feeling lost,shaking really bad,1
+shaking really bad,virus,1
+shaking really bad,wake up in a pool of sweat,1
+mentally feeling lost,virus,1
+mentally feeling lost,wake up in a pool of sweat,1
+virus,wake up in a pool of sweat,1
+respyratory problem,sympstom,1
+covid 19,wake up in a cold sweat,1
+nightmar,trouble falling back asleep,1
+low immun,virus,1
+cardiaqu,une infect,1
+cardiaqu,du,1
+cardiaqu,corona virus,1
+cardiaqu,pneumoni,1
+covid,lice,1
+coronavirus,panic attack,1
+panic attack,wake up extremely exhaust,1
+bugs and moths began to emerg,movement beneath the skin,1
+bugs and moths began to emerg,palm of my left hand began to itch uncontrol,1
+bugs and moths began to emerg,wound in the palm of my hand had h,1
+bugs and moths began to emerg,extremely bright light began to eman,1
+bugs and moths began to emerg,no pain,1
+bugs and moths began to emerg,pain in my hand,1
+movement beneath the skin,palm of my left hand began to itch uncontrol,1
+movement beneath the skin,wound in the palm of my hand had h,1
+extremely bright light began to eman,movement beneath the skin,1
+movement beneath the skin,no pain,1
+movement beneath the skin,pain in my hand,1
+palm of my left hand began to itch uncontrol,wound in the palm of my hand had h,1
+extremely bright light began to eman,palm of my left hand began to itch uncontrol,1
+no pain,palm of my left hand began to itch uncontrol,1
+pain in my hand,palm of my left hand began to itch uncontrol,1
+extremely bright light began to eman,wound in the palm of my hand had h,1
+no pain,wound in the palm of my hand had h,1
+pain in my hand,wound in the palm of my hand had h,1
+extremely bright light began to eman,no pain,1
+extremely bright light began to eman,pain in my hand,1
+no pain,pain in my hand,1
+coronavirus,yellow and black spotted cobra,1
+power lust,radiation poison,1
+immunocompromis,stress,1
+felt myself feeling claustrophob,heart condit,1
+grasshopp,heart condit,1
+covid,felt myself feeling claustrophob,1
+infect,thickness or pressure in my chest,1
+overall feeling of frustr,overwhelming feeling of urg,1
+feelings of lack of control,virus,1
+overall feeling of frustr,virus,1
+covid 19,feelings of lack of control,1
+covid 19,overall feeling of frustr,1
+feelings of lack of control,overall feeling of frustr,1
+bleed,bleeding from her stomach,1
+heart rate and breath,infect,1
+heart rate and breath,thickness or pressure in my chest,1
+felt like i was falling asleep,heart rate and breath,1
+heart rate and breath,perceived myself to be falling asleep,1
+heart rate and breath,respiratory ail,1
+gasping for breath,heart rate and breath,1
+felt like i was falling asleep,infect,1
+coma,fever,1
+infect,perceived myself to be falling asleep,1
+infect,respiratory ail,1
+gasping for breath,infect,1
+felt like i was falling asleep,thickness or pressure in my chest,1
+perceived myself to be falling asleep,thickness or pressure in my chest,1
+respiratory ail,thickness or pressure in my chest,1
+gasping for breath,thickness or pressure in my chest,1
+felt like i was falling asleep,perceived myself to be falling asleep,1
+felt like i was falling asleep,respiratory ail,1
+felt like i was falling asleep,gasping for breath,1
+perceived myself to be falling asleep,respiratory ail,1
+gasping for breath,perceived myself to be falling asleep,1
+gasping for breath,respiratory ail,1
+feelings of lack of control,overwhelming feeling of urg,1
+covid 19,overwhelming feeling of urg,1
+overwhelming feeling of urg,virus,1
+disturb,very anxi,1
+heart attack,virus,1
+covid 19,heart attack,1
+legs were too weak,virus,1
+food allergi,legs were too weak,1
+feel weak phys,legs were too weak,1
+food allergi,virus,1
+feel weak phys,virus,1
+feel weak phys,food allergi,1
+coronavirus,feces and vomit,1
+cough,strong sensation of now being abut to breath,1
+cough,gasping a bit for air,1
+corona virus,strong sensation of now being abut to breath,1
+gasping a bit for air,strong sensation of now being abut to breath,1
+corona virus,gasping a bit for air,1
+pain,tinnitus,1
+anxieti,breathing so heavili,1
+afraid,virus,1
+disturb,virus,1
+very anxi,virus,1
+afraid,coronavirus,1
+afraid,pandem,1
+afraid,disturb,1
+afraid,very anxi,1
+coronavirus,disturb,1
+coronavirus,very anxi,1
+disturb,pandem,1
+pandem,very anxi,1
+not being able to breath prop,spiders crawling on my skin,1
+coma,feeling naus,1
+felt myself feeling claustrophob,grasshopp,1
+food allergi,severe allergi,1
+corona,exhaust,1
+corona,feel back asleep,1
+corona,unable to get dress,1
+corona,feeling very tens,1
+exhaust,feel back asleep,1
+exhaust,unable to get dress,1
+exhaust,feeling very tens,1
+feel back asleep,unable to get dress,1
+feel back asleep,feeling very tens,1
+feeling very tens,unable to get dress,1
+corona,severe asthma,1
+anaphylactic shock,severe allergi,1
+anaphylactic shock,food allergi,1
+stop breath,terminally il,1
+coma,covid,1
+felt increasingly panick,terminally il,1
+deep pan,terminally il,1
+mucusy lump,terminally il,1
+oscillating wav,terminally il,1
+felt increasingly panick,stop breath,1
+deep pan,stop breath,1
+mucusy lump,stop breath,1
+oscillating wav,stop breath,1
+deep pan,felt increasingly panick,1
+felt increasingly panick,mucusy lump,1
+felt increasingly panick,oscillating wav,1
+deep pan,mucusy lump,1
+deep pan,oscillating wav,1
+covid,mild concuss,1
+covid,passing out,1
+mild concuss,passing out,1
+covid,pain,1
+feeling naus,fever,1
+covid,feeling naus,1
+feel grief,tears of blood,1
+feel grief,red virus,1
+corona virus,feel grief,1
+red virus,tears of blood,1
+corona virus,tears of blood,1
+corona virus,red virus,1
+neck and head hurt,pain,1
+heart rac,panic attack,1
+heart rac,short of breath,1
+panic attack,short of breath,1
+cough,ppe,1
+flu,ppe,1
+ppe,virus,1
+insect like creatures started crawling everywher,pressure on the side of my foot,1
+couldnt breath deepli,felt like i was suffoc,1
+flu virus,virus,1
+covid 19,flu virus,1
+coronovirus,flu virus,1
+asthma,flu virus,1
+coronovirus,virus,1
+coronovirus,covid 19,1
+asthma,coronovirus,1
+dreams are in vivid color,headach,1
+pain,passing out,1
+mild concuss,pain,1
+cardiac arrest,heart attack,1
+cardiac arrest,covid 19,1
+cardiac arrest,virus,1
+felt shame and a little afraid,grass rippl,1
+sensing something was wrong,stress,1
+addict,heart pound,1
+black rat,paralyzed by fear,1
+anxieti,black rat,1
+black rat,parasit,1
+black rat,chest pain,1
+anxieti,paralyzed by fear,1
+paralyzed by fear,parasit,1
+chest pain,paralyzed by fear,1
+anxieti,parasit,1
+chest pain,parasit,1
+intense shak,shake,1
+existential crisi,felt shame and a little afraid,1
+felt shame and a little afraid,voices grew more insist,1
+face was swollen,nose was run,1
+existential crisi,grass rippl,1
+existential crisi,voices grew more insist,1
+grass rippl,voices grew more insist,1
+covid19,diseas,1
+pandemia,trembl,1
+pandemia,woke up scream,1
+trembl,woke up scream,1
+cough,not be able to breath,1
+asthma,not be able to breath,1
+not be able to breath,virus,1
+covid,woke up completely panick,1
+respiratory issu,virus,1
+cough,felt anxi,1
+extremely itchi,virus,1
+virus lung,wheez,1
+struggling to breath,virus lung,1
+struggling to breath,wheez,1
+covid,grasshopp,1
+failing to fall back to sleep,wake up in distress,1
+extremely vivid and disturbing dream,failing to fall back to sleep,1
+extremely vivid and disturbing dream,wake up in distress,1
+drop of blood began dripping from her mouth,loosing all color,1
+loosing all color,spray of a sticky red substance on my p,1
+drop of blood began dripping from her mouth,spray of a sticky red substance on my p,1
+bitter taste in my mouth,virus,1
+anxious and scar,virus,1
+high anxieti,virus,1
+felt myself go unconsci,virus,1
+breathing in a high pressur,virus,1
+anxious and scar,bitter taste in my mouth,1
+bitter taste in my mouth,high anxieti,1
+bitter taste in my mouth,felt myself go unconsci,1
+bitter taste in my mouth,breathing in a high pressur,1
+anxious and scar,high anxieti,1
+anxious and scar,felt myself go unconsci,1
+anxious and scar,breathing in a high pressur,1
+felt myself go unconsci,high anxieti,1
+breathing in a high pressur,high anxieti,1
+breathing in a high pressur,felt myself go unconsci,1
+infect,respiratory insuffici,1
+autoimmune deceas,respiratory insuffici,1
+coronavirus,respiratory insuffici,1
+autoimmune deceas,infect,1
+autoimmune deceas,coronavirus,1
+black,losing teeth,1
+cough up blood,irritate his throat,1
+irritate his throat,trouble breath,1
+coronavirus,extremely disori,1
+faint,falling down,1
+tmj,unable to mov,1
+tmj,unable to scream,1
+grit my teeth in my sleep,tmj,1
+paralyzing anxieti,tmj,1
+unable to mov,unable to scream,1
+grit my teeth in my sleep,unable to mov,1
+paralyzing anxieti,unable to mov,1
+grit my teeth in my sleep,unable to scream,1
+paralyzing anxieti,unable to scream,1
+grit my teeth in my sleep,paralyzing anxieti,1
+bloody spasm,spasm,1
+bloody spasm,keeling over blood spilling then gushing from his mouth,1
+bloody spasm,coughed up blood,1
+keeling over blood spilling then gushing from his mouth,spasm,1
+coughed up blood,spasm,1
+coughed up blood,keeling over blood spilling then gushing from his mouth,1
+bug,bug bit,1
+letting out high pitched cough,virus,1
+letting out high pitched cough,trouble sleep,1
+face was swollen,letting out high pitched cough,1
+letting out high pitched cough,nose was run,1
+trouble sleep,virus,1
+face was swollen,virus,1
+nose was run,virus,1
+face was swollen,trouble sleep,1
+nose was run,trouble sleep,1
+coronavirus,migrain,1
+extremely disori,virus,1
+coughing and cough,irritate his throat,1
+nightmar,struggling to make my voice heard,1
+cough up blood,trouble breath,1
+cough up blood,coughing and cough,1
+coughing and cough,trouble breath,1
+heart condit,heart was seriously pound,1
+heart was seriously pound,woke up in the middle of the night with my heart pound,1
+heart condit,woke up in the middle of the night with my heart pound,1
+crying and scream,crying and screaming in my sleep,1
+covid 19,crying and scream,1
+covid 19,crying and screaming in my sleep,1
+bad cough,temp is very high,1
+bed bug,temp is very high,1
+bad cough,bed bug,1
+panic attack,ptsd,1
+high anxieti,ptsd,1
+anxieti,ptsd,1
+high anxieti,panic attack,1
+anxieti,high anxieti,1
+high anxieti,nightmar,1
+deep sleep trying to scream,twilight,1
+hallucin,twilight,1
+nightmar,twilight,1
+struggling to make my voice heard,twilight,1
+deep sleep trying to scream,hallucin,1
+deep sleep trying to scream,nightmar,1
+deep sleep trying to scream,struggling to make my voice heard,1
+hallucin,nightmar,1
+hallucin,struggling to make my voice heard,1
+roundworm,skin on my feet and ankles reduce down to normal s,1
+coronavirus,heart rate 121 and short of breath,1
+anxieti,skin on my feet and ankles reduce down to normal s,1
+not being able to breath,triatomin,1
+difficulty breath,tossing and turn,1
+phlegm,tossing and turn,1
+covid virus,felt very strang,1
+cancer,covid virus,1
+cancer,felt very strang,1
+being able to see loved on,nightmar,1
+being able to see loved on,coronavirus,1
+being able to see loved on,stress,1
+nightmar,stress,1
+triatomin,yellow triatomine bug,1
+not being able to breath,yellow triatomine bug,1
+covid,yellow triatomine bug,1
+chagas diseas,yellow triatomine bug,1
+covid,triatomin,1
+teeth began bleed,virus,1
+chagas diseas,triatomin,1
+chagas diseas,not being able to breath,1
+chagas diseas,covid,1
+ethnicitiy,sleep paralysi,1
+extremely physically deform,virus,1
+extremely physically deform,majority of my teeth were miss,1
+breaking and falling out of my mouth,extremely physically deform,1
+extremely physically deform,started screaming and cri,1
+extremely physically deform,teeth began bleed,1
+coronavirus,extremely physically deform,1
+extremely mean and spit,extremely physically deform,1
+majority of my teeth were miss,virus,1
+breaking and falling out of my mouth,virus,1
+difficulty breath,phlegm,1
+struggled to get up and go to the bathroom,tossing and turn,1
+phlegm,struggled to get up and go to the bathroom,1
+difficulty breath,struggled to get up and go to the bathroom,1
+cough up the phlegm,restless night,1
+cough up the phlegm,struggled to get up and go to the bathroom,1
+cough up the phlegm,difficulty breath,1
+cough up the phlegm,phlegm,1
+cough up the phlegm,tossing and turn,1
+choke,pain in my chest,1
+choke,throwing up,1
+choke,restless night,1
+choke,struggled to get up and go to the bathroom,1
+choke,difficulty breath,1
+choke,phlegm,1
+choke,tossing and turn,1
+pain in my chest,throwing up,1
+pain in my chest,restless night,1
+pain in my chest,struggled to get up and go to the bathroom,1
+difficulty breath,pain in my chest,1
+pain in my chest,phlegm,1
+pain in my chest,tossing and turn,1
+restless night,throwing up,1
+struggled to get up and go to the bathroom,throwing up,1
+difficulty breath,throwing up,1
+phlegm,throwing up,1
+throwing up,tossing and turn,1
+restless night,struggled to get up and go to the bathroom,1
+difficulty breath,restless night,1
+phlegm,restless night,1
+restless night,tossing and turn,1
+started screaming and cri,virus,1
+extremely mean and spit,virus,1
+trouble breath,writh,1
+panic,sweating profus,1
+coronavirus,struggled to breath,1
+headach,unable to go back to sleep,1
+bleed,felt alarm,1
+feel rattling my lung,hacking cough,1
+feel rattling my lung,virus,1
+feel rattling my lung,trip,1
+hacking cough,virus,1
+hacking cough,trip,1
+trip,virus,1
+parasit,stinkbug,1
+holding her throat,panic,1
+panic,writh,1
+panic,trouble breath,1
+panic,wake up in a pan,1
+breaking and falling out of my mouth,majority of my teeth were miss,1
+panic,tightness in her chest,1
+heart rac,panic,1
+panic,temperature was rising fast,1
+panic,sweat,1
+holding her throat,writh,1
+holding her throat,trouble breath,1
+anxieti,holding her throat,1
+holding her throat,sweating profus,1
+holding her throat,wake up in a pan,1
+holding her throat,tightness in her chest,1
+flush,holding her throat,1
+heart rac,holding her throat,1
+holding her throat,temperature was rising fast,1
+cold sweat,coronavirus,1
+cold sweat,cough,1
+covid,large lump on my forhead,1
+virus,woke up repeatedly throughout the night panicking because i thought i had just touched my fac,1
+majority of my teeth were miss,started screaming and cri,1
+majority of my teeth were miss,teeth began bleed,1
+coronavirus,majority of my teeth were miss,1
+extremely mean and spit,majority of my teeth were miss,1
+breaking and falling out of my mouth,started screaming and cri,1
+breaking and falling out of my mouth,teeth began bleed,1
+breaking and falling out of my mouth,coronavirus,1
+breaking and falling out of my mouth,extremely mean and spit,1
+started screaming and cri,teeth began bleed,1
+coronavirus,started screaming and cri,1
+extremely mean and spit,started screaming and cri,1
+coronavirus,teeth began bleed,1
+extremely mean and spit,teeth began bleed,1
+coronavirus,extremely mean and spit,1
+fever,sever chest pain,1
+bile in my throat,vomit,1
+intense dream,vomit,1
+nausea,vomit,1
+stress induced nightmar,vomit,1
+bile in my throat,intense dream,1
+bile in my throat,nausea,1
+bile in my throat,stress induced nightmar,1
+intense dream,nausea,1
+intense dream,stress induced nightmar,1
+nausea,stress induced nightmar,1
+append,covid,1
+anxieti,woke up repeatedly throughout the night panicking because i thought i had just touched my fac,1
+cough up the phlegm,throwing up,1
+cough up the phlegm,pain in my chest,1
+choke,cough up the phlegm,1
+feeling nerv,rue,1
+phlegm,violent cough,1
+bad cough,violent cough,1
+coronavirus,phlegm,1
+bad cough,phlegm,1
+congest,fever,1
+congest,covid,1
+nose was stuffi,rue,1
+nose was stuffi,trouble breath,1
+feeling nerv,nose was stuffi,1
+nose was stuffi,sore throat,1
+coronavirus,nose was stuffi,1
+aid,nose was stuffi,1
+rue,trouble breath,1
+rue,sore throat,1
+cough,tossing and turn,1
+coronavirus,rue,1
+aid,rue,1
+feeling nerv,trouble breath,1
+aid,trouble breath,1
+feeling nerv,sore throat,1
+coronavirus,feeling nerv,1
+aid,feeling nerv,1
+aid,sore throat,1
+aid,coronavirus,1
+aggressive looking dogs are showing their teeth,anxieti,1
+covid,respiratory problem,1
+covid19,severe chest pain,1
+severe chest pain,shake,1
+coronavirus,violent cough,1
+bad cough,fever,1
+fever,phlegm,1
+fever,violent cough,1
+depress,sensation something was off,1
+sensation something was off,terminal aid,1
+brittle talon,thick red,1
+brittle talon,very hot,1
+thick red,very hot,1
+cough,pneumonia,1
+fever,temperature was high,1
+covid,temperature was high,1
+bleed,break my tooth,1
+respiratory failur,shortness of breath,1
+covid 19,respiratory failur,1
+blue slim,exhaust,1
+exhaust,phobia,1
+blue slim,phobia,1
+asymptomat,growing pan,1
+feel very lon,high heartbeat r,1
+anticorp,covid,1
+anticorp,pandem,1
+vaginal bleed,vomiting placenta,1
+contagi,isol,1
+covid 19,difficulties in breath,1
+cv,woke up because their was something slimy on my arm,1
+dried out and crispi,felt dirty and contamin,1
+dried out and crispi,endometriosi,1
+endometriosi,felt dirty and contamin,1
+cough,violent cough,1
+bad cough,cough,1
+severe chest pain,trouble breath,1
+gasping for breath,severe chest pain,1
+covid19,shake,1
+chrysali,eyes clos,1
+contamination related ocd,covid 19,1
+covid 19,diseas,1
+caronavirus,harder and harder to breath,1
+caronavirus,scarlet fev,1
+harder and harder to breath,scarlet fev,1
+anxieti,anxiety disord,1
+anxiety disord,shortness of breath,1
+ankle problem,covid,1
+remembering my dreams in a very vivid way,wound on my forehead,1
+mutat,plagu,1
+coronavirus,plagu,1
+plagu,rat infest,1
+plagu,rats had tentacles of sort,1
+coronavirus,mutat,1
+mutat,rat infest,1
+mutat,rats had tentacles of sort,1
+coronavirus,rat infest,1
+coronavirus,rats had tentacles of sort,1
+rat infest,rats had tentacles of sort,1
+corona virus,letharg,1
+broke down into tear,virus,1
+cough,cough up the phlegm,1
+choke,cough,1
+cough,pain in my chest,1
+cough,throwing up,1
+cough,restless night,1
+cough,struggled to get up and go to the bathroom,1
+contamination related ocd,diseas,1
+chest pain,panic attack,1
+covid19,trouble breath,1
+pimpl,whitehead,1
+covid19,gasping for breath,1
+shake,trouble breath,1
+gasping for breath,shake,1
+gasping for breath,trouble breath,1
+anxieti,water seeping under my door,1
+pandem,water seeping under my door,1
+stress,water seeping under my door,1
+pandem,stress,1
+blood coming out of the mountain,pain,1
+anxieti,full cinematic night terror,1
+anxieti,separation anxieti,1
+full cinematic night terror,separation anxieti,1
+black out,blacked out,1
+asthmat,blacked out,1
+blacked out,bleed,1
+blacked out,gasping for air,1
+asthmat,black out,1
+black out,bleed,1
+black out,gasping for air,1
+asthmat,bleed,1
+asthmat,gasping for air,1
+bleed,gasping for air,1
+cough,sick people cough,1
+sick people cough,vomit,1
+maggot,sick people cough,1
+cough,maggot,1
+maggot,vomit,1
+holding her throat,sweat,1
+anxieti,writh,1
+bipolar disord,major depressive period,1
+grabbing at my throat and swollen tongu,short of breath from yel,1
+tightening in my chest,virus,1
+gasping for air,tightening in my chest,1
+anxious,teeth were breaking off and coming out,1
+covid,entire vision being blur,1
+breathing hard,sweat,1
+pandem,sweat,1
+breathing hard,pandem,1
+gasping for air,out of breath,1
+down my nose and throat,faint impress,1
+down my nose and throat,stress,1
+faint impress,stress,1
+not being able to talk,panic attack,1
+short of breath from yel,struggling to breath,1
+short of breath from yel,virus,1
+cough,throat started burn,1
+grabbing at my throat and swollen tongu,struggling to breath,1
+grabbing at my throat and swollen tongu,virus,1
+finding blood in her stool,throwing up,1
+coughing up blood,finding blood in her stool,1
+coughing up blood,throwing up,1
+rash,virus,1
+anxieti,germ,1
+anxieti,teeth sor,1
+germ,teeth sor,1
+coronavirus,germ,1
+coronavirus,teeth sor,1
+gross puddle of nothing,mentally unst,1
+feelings of helpless,planes would fall from the ski,1
+asthma,tightening in my chest,1
+physical pain,vision blacking out,1
+covid,physical pain,1
+covid,vision blacking out,1
+anxieti,extremely vivid dream,1
+extremely vivid dream,nightmar,1
+afraid to go to sleep,extremely vivid dream,1
+clinical anxieti,extremely vivid dream,1
+afraid to go to sleep,anxieti,1
+anxieti,clinical anxieti,1
+afraid to go to sleep,nightmar,1
+clinical anxieti,nightmar,1
+afraid to go to sleep,clinical anxieti,1
+falling out,rot,1
+loos,rot,1
+falling out,loos,1
+self isol,sore throat,1
+corona virus,sore throat,1
+sore throat,white spots all inside the mouth throat,1
+corona virus,self isol,1
+self isol,white spots all inside the mouth throat,1
+corona virus,white spots all inside the mouth throat,1
+anxieti,autism,1
+autism,heart pound,1
+anxieti,heart pound,1
+horrible tooth infect,terrible breath,1
+coronavirus,suddenly started getting sick,1
+nightmar,shock quickly turned to annoyance and ang,1
+covid,physically feel myself suffoc,1
+physically feel myself suffoc,vision blacking out,1
+physical pain,physically feel myself suffoc,1
+cough,violently cough,1
+cough,tears stream,1
+sweating profus,writh,1
+broke down cri,coronavirus,1
+dementia,restless cycl,1
+acutely uncomfortable and very vivid,could not find my desk,1
+could not find my desk,dementia,1
+acutely uncomfortable and very vivid,dementia,1
+gritting my teeth,mental breakdown,1
+gritting my teeth,stockholm syndrom,1
+coronavirus,gritting my teeth,1
+broke down cri,gritting my teeth,1
+mental breakdown,stockholm syndrom,1
+coronavirus,mental breakdown,1
+broke down cri,mental breakdown,1
+coronavirus,stockholm syndrom,1
+broke down cri,stockholm syndrom,1
+anxieti,gaining weight,1
+violently cough,virus,1
+extremely anxious and claustrophob,extremely irrit,1
+nightmar,vivid nightmar,1
+covid,vivid nightmar,1
+virus,vivid nightmar,1
+breathing heavi,sleep apnea,1
+sleep apnea,wakes up crying and cri,1
+breathing heavi,wakes up crying and cri,1
+pain,spreading infect,1
+blood smear,grasshopp,1
+grasshopp,pain in my right should,1
+arthritic pain in my hip,grasshopp,1
+blood smear,pain in my right should,1
+arthritic pain in my hip,blood smear,1
+acutely uncomfortable and very vivid,restless cycl,1
+could not find my desk,restless cycl,1
+dementia,disori,1
+acutely uncomfortable and very vivid,disori,1
+throat started burn,violently cough,1
+tears stream,violently cough,1
+throat started burn,virus,1
+tears stream,virus,1
+tears stream,throat started burn,1
+cough,coughing up blood,1
+coughing up blood,virus,1
+coronavirus,writhing in pain,1
+felt very heavy in my consci,passed out,1
+covid19,passed out,1
+gravely injur,passed out,1
+covid19,felt very heavy in my consci,1
+felt very heavy in my consci,gravely injur,1
+covid19,gravely injur,1
+dreams have become noticeably more vivid,teeth started falling out,1
+coronavirus,teeth started falling out,1
+anxious and troubled in ton,teeth started falling out,1
+coronavirus,dreams have become noticeably more vivid,1
+anxious and troubled in ton,dreams have become noticeably more vivid,1
+anxious and troubled in ton,coronavirus,1
+anxieti,covid 19 rel,1
+feel uncoordinated and dissoci,water dripping from the ceil,1
+big ey,water dripping from the ceil,1
+big ey,feel uncoordinated and dissoci,1
+coronavirus,feeling so anxi,1
+disori,restless cycl,1
+could not find my desk,disori,1
+bad vis,clinical anxieti,1
+afraid to go to sleep,bad vis,1
+bad vis,nightmar,1
+respiratory crisi,very anxious and upset,1
+temperature was rising fast,tightness in her chest,1
+sweat,tightness in her chest,1
+flush,heart rac,1
+flush,temperature was rising fast,1
+flush,sweat,1
+heart rac,temperature was rising fast,1
+heart rac,sweat,1
+sweat,temperature was rising fast,1
+coronavirus,emergency brain surgeri,1
+heart pound,unable to mov,1
+chronic blood diseas,very anxious and upset,1
+chronic blood diseas,respiratory crisi,1
+chronic blood diseas,corona virus,1
+corona virus,very anxious and upset,1
+anxieti,bad vis,1
+corona virus,respiratory crisi,1
+covid 19,trouble falling back asleep,1
+covid 19 virus,trouble falling back asleep,1
+covid 19,covid 19 virus,1
+pitch black,thirst,1
+heart pound,thirst,1
+nightmar,thirst,1
+thirst,thirsti,1
+heart pound,pitch black,1
+nightmar,pitch black,1
+pitch black,thirsti,1
+heart pound,nightmar,1
+heart pound,thirsti,1
+heart rac,tightness in her chest,1
+flush,tightness in her chest,1
+sweat,wake up in a pan,1
+temperature was rising fast,wake up in a pan,1
+wake up in a pan,writh,1
+tightness in her chest,writh,1
+flush,writh,1
+heart rac,writh,1
+temperature was rising fast,writh,1
+sweat,writh,1
+sweating profus,trouble breath,1
+trouble breath,wake up in a pan,1
+tightness in her chest,trouble breath,1
+flush,trouble breath,1
+heart rac,trouble breath,1
+temperature was rising fast,trouble breath,1
+sweat,trouble breath,1
+anxieti,sweating profus,1
+anxieti,tightness in her chest,1
+anxieti,flush,1
+anxieti,heart rac,1
+anxieti,temperature was rising fast,1
+sweating profus,wake up in a pan,1
+sweating profus,tightness in her chest,1
+flush,sweating profus,1
+heart rac,sweating profus,1
+sweating profus,temperature was rising fast,1
+sweat,sweating profus,1
+tightness in her chest,wake up in a pan,1
+flush,wake up in a pan,1
+heart rac,wake up in a pan,1
+nightmar,thirsti,1
+fever,trouble falling completely asleep,1
+bouts of fev,fever,1
+coronavirus,weak,1
+sunburn,virus,1
+drug addict,virus,1
+diarrhea,virus,1
+drug addict,sunburn,1
+coronavirus,sunburn,1
+diarrhea,sunburn,1
+coronavirus,drug addict,1
+diarrhea,drug addict,1
+coronavirus,diarrhea,1
+coronavirus,lazyness of mind,1
+cough,infect,1
+fever,infect,1
+infect,trouble breath,1
+fever,trouble breath,1
+pandem,trouble breath,1
+anxiety induc,virus,1
+unspecified nightmar,virus,1
+unspecified nightmar,wake up shaking with fear,1
+fear,unspecified nightmar,1
+unable to rememb,unspecified nightmar,1
+virus,wake up shaking with fear,1
+fear,virus,1
+unable to rememb,virus,1
+fear,wake up shaking with fear,1
+unable to rememb,wake up shaking with fear,1
+fear,unable to rememb,1
+bad vis,extremely vivid dream,1
+diarrhea,weak,1
+drug addict,weak,1
+bouts of fev,trouble falling completely asleep,1
+sunburn,weak,1
+parkinson,viral respiratory infect,1
+feel really anxi,nervous,1
+anxious,feel really anxi,1
+anxious,nervous,1
+feelings of disgust and ang,virus,1
+breathing in low heaves and grabbing with invisible long fingers and hand,virus,1
+feelings of disgust and ang,sleep paralysi,1
+anxieti,feelings of disgust and ang,1
+feelings of disgust and ang,nightmar,1
+breathing in low heaves and grabbing with invisible long fingers and hand,feelings of disgust and ang,1
+anxieti,sleep paralysi,1
+nightmar,sleep paralysi,1
+breathing in low heaves and grabbing with invisible long fingers and hand,sleep paralysi,1
+anxieti,breathing in low heaves and grabbing with invisible long fingers and hand,1
+breathing in low heaves and grabbing with invisible long fingers and hand,nightmar,1
+cough,runny nos,1
+covid 19,mild cough,1
+mild cough,weight on my chest makes it difficult for me to breath,1
+covid 19,weight on my chest makes it difficult for me to breath,1
+corona,not being able to breath,1
+angry and agit,felt very agit,1
+covid 19,woke up in the middle of the night,1
+coronavirus,rabi,1
+pandemic vib,virus,1
+cough,grey and very il,1
+bad fev,flu,1
+virus,weak,1
+depress,terminal aid,1
+apprehens,dread,1
+feet and legs were swollen,skin on my feet and ankles reduce down to normal s,1
+looked very sick,numb,1
+hands were angry looking and they began to ble,volume on the tv started to become very loud,1
+coronavirus,strong fev,1
+covid,virus germ,1
+coronavirus,covid 19 pandem,1
+anxious,crowd anxieti,1
+paralysi,unable to even speak prop,1
+paralysi,unable to move or speak,1
+unable to even speak prop,unable to move or speak,1
+coronavirus,started getting really hard to breath,1
+numb,started getting really hard to breath,1
+looked very sick,started getting really hard to breath,1
+coronavirus,numb,1
+coronavirus,looked very sick,1
+feverish,terrible cough,1
+covid19,infect,1
+covid,feverish,1
+feeling my chest was congest,feverish,1
+covid,terrible cough,1
+feeling my chest was congest,terrible cough,1
+covid,feeling my chest was congest,1
+covid 19,sleep screaming warbl,1
+dying of thirst,extreme stress,1
+dying of thirst,virus,1
+dying of thirst,intense dream,1
+extreme stress,virus,1
+extreme stress,intense dream,1
+intense dream,virus,1
+intense pan,virus,1
+hands were angry looking and they began to ble,rubbing my skin raw,1
+rubbing my skin raw,volume on the tv started to become very loud,1
+hands were angry looking and they began to ble,loneli,1
+loneli,volume on the tv started to become very loud,1
+deep cough,low grade fev,1
+hyperventil,panic attack,1
+covid19,hyperventil,1
+covid19,panic attack,1
+breathing problem,woke up feeling nerv,1
+breathing problem,coronavirus,1
+virus,woke up feeling nerv,1
+coronavirus,woke up feeling nerv,1
+ebola,felt increasingly panick,1
+anxieti,ebola,1
+corona virus,ebola,1
+felt increasingly panick,virus,1
+anxieti,felt increasingly panick,1
+corona virus,felt increasingly panick,1
+grayish skin,pandem,1
+grayish skin,virus,1
+distancing issu,stressed out,1
+heavy hopeless,seemed to continue getting louder and loud,1
+loneli,seemed to continue getting louder and loud,1
+rubbing my skin raw,seemed to continue getting louder and loud,1
+seemed to continue getting louder and loud,volume on the tv started to become very loud,1
+hands were angry looking and they began to ble,seemed to continue getting louder and loud,1
+heavy hopeless,loneli,1
+heavy hopeless,rubbing my skin raw,1
+heavy hopeless,volume on the tv started to become very loud,1
+hands were angry looking and they began to ble,heavy hopeless,1
+loneli,rubbing my skin raw,1
+coronavirus,intense pan,1
+covid19 outbreak,infect,1
+broken down,feeling anxi,1
+coronavirus,insomniac,1
+feeling like i could not communicate or escap,panic induc,1
+could not breath,lost track of my car,1
+bronchitis attack,lost track of my car,1
+lost track of my car,short of breath,1
+bronchiti,lost track of my car,1
+bronchitis attack,could not breath,1
+could not breath,short of breath,1
+bronchiti,could not breath,1
+bronchitis attack,short of breath,1
+bronchiti,bronchitis attack,1
+bronchiti,short of breath,1
+jaw aching from grinding my teeth,virus,1
+insomniac,virus,1
+anxieti,proceeded to touch my face around my eyes and mouth,1
+infect,stress,1
+extreme anxieti,proceeded to touch my face around my eyes and mouth,1
+mild sore throat,proceeded to touch my face around my eyes and mouth,1
+nervous,proceeded to touch my face around my eyes and mouth,1
+anxieti,extreme anxieti,1
+anxieti,nervous,1
+extreme anxieti,mild sore throat,1
+extreme anxieti,nervous,1
+mild sore throat,nervous,1
+losing my teeth,vomit,1
+coughed a lot,lungs were full of fluid,1
+anxieti,feeling of impot,1
+cough,immune compromised partn,1
+cold and raini,feeling anxi,1
+hairs on the back of my neck to stand up,psychotic episod,1
+scorpion on the floor,virus,1
+cold sweat,specks of dust,1
+coronavirus,wart,1
+covid19 outbreak,virus,1
+covid19,covid19 outbreak,1
+covid19,stress,1
+covid19 outbreak,stress,1
+pain,physically shivering in disgust,1
+anxious,felt absolutely terrifi,1
+couldnt breath,feel il,1
+coronavirus,feel il,1
+coronavirus,sickening feeling of fal,1
+pandem,sickening feeling of fal,1
+very anxi,very uncomfort,1
+green puss,sickeningly anxi,1
+ear itch,hiv,1
+droplets of sweat,felt extremely uncomfort,1
+chill,fever,1
+chill,covid 19,1
+sense of disorient,sense of loss,1
+sense of disorient,virus,1
+covid19,emaci,1
+covid19,hobbl,1
+coronavirus,covid19,1
+covid19,wart,1
+emaci,hobbl,1
+coronavirus,emaci,1
+emaci,wart,1
+coronavirus,hobbl,1
+hobbl,wart,1
+deep cough,gasping for air,1
+gasping for air,low grade fev,1
+coronavirus,deep cough,1
+heart rate 121 and short of breath,sweat,1
+migrain,severe migrain,1
+covid,migrain,1
+intense pain,severe migrain,1
+covid,severe migrain,1
+wake up feeling out of breath and scar,wake up feeling very tired and sad,1
+virus,wake up feeling very tired and sad,1
+virus,wake up feeling out of breath and scar,1
+fever,started to sweat,1
+nose started to feel stuffi,started to sweat,1
+pressure in my head,started to sweat,1
+fever,nose started to feel stuffi,1
+fever,pressure in my head,1
+nose started to feel stuffi,pressure in my head,1
+cough,influenza b,1
+coronavirus,low grade fev,1
+coronavirus,sweat,1
+feeling very uneasi,virus,1
+feeling like i am coming into contact with strang,feeling very uneasi,1
+feeling like i am coming into contact with strang,virus,1
+cough and struggle to breath,virus,1
+cough and struggle to breath,nightmar,1
+breathing became less frequ,gasping breath,1
+underlying stress,virus,1
+coronavirus,underlying stress,1
+anxious and stress,underlying stress,1
+anxious and stress,virus,1
+anxious and stress,coronavirus,1
+heart was beating out of my chest,tired and out of breath,1
+intense pain,migrain,1
+covid,helpless,1
+helpless,severe migrain,1
+helpless,intense pain,1
+skin on my feet and ankles reduce down to normal s,trauma,1
+extreme behavioral problem,skin on my feet and ankles reduce down to normal s,1
+parasitic worm,roundworm,1
+anxieti,parasitic worm,1
+feet and legs were swollen,parasitic worm,1
+parasitic worm,trauma,1
+extreme behavioral problem,parasitic worm,1
+anxieti,roundworm,1
+feet and legs were swollen,roundworm,1
+roundworm,trauma,1
+extreme behavioral problem,roundworm,1
+anxieti,feet and legs were swollen,1
+anxieti,trauma,1
+anxieti,extreme behavioral problem,1
+feet and legs were swollen,trauma,1
+extreme behavioral problem,feet and legs were swollen,1
+extreme behavioral problem,trauma,1
+diseased virus,virus,1
+swollen and purpl,virus,1
+anxieti,huge feeling of dread,1
+covid,heart problem,1
+growth on the back of my leg,kept coming out of my leg,1
+kept coming out of my leg,virus,1
+growth on the back of my leg,virus,1
+felt claustrophobic and felt like my mouth was full of marbl,panic touching my mouth,1
+anxieti,rabi,1
+helpless,migrain,1
+heart was beating out of my chest,virus,1
+tired and out of breath,virus,1
+anxious,avoid,1
+horrible sleep,increasingly anxious dream,1
+flu,tired,1
+cold,tired,1
+feeling extremely sick,tired,1
+cold,flu,1
+feeling extremely sick,flu,1
+cold,feeling extremely sick,1
+coronavirus,extreme surf,1
+feeling really unnerv,strong sense of paranoia,1
+guilt was thick and heavi,loss of control,1
+bronchiti,cough,1
+cough,gasping for air,1
+cough,low grade fev,1
+cough,deep cough,1
+asthma,bronchiti,1
+asthma,couldnt breath,1
+asthma,coronavirus,1
+asthma,low grade fev,1
+asthma,deep cough,1
+bronchiti,couldnt breath,1
+bronchiti,coronavirus,1
+bronchiti,gasping for air,1
+bronchiti,low grade fev,1
+bronchiti,deep cough,1
+couldnt breath,gasping for air,1
+couldnt breath,low grade fev,1
+couldnt breath,deep cough,1
+coronavirus,gasping for air,1
+covid,increasingly anxious dream,1
+covid,horrible sleep,1
+cough,passed out,1
+overwhelmingly large ey,pandem,1
+bleed to death,shortage of blood,1
+covid 19 virus,virus,1
+dreams of falling off a cliff,wake up gasp,1
+dreams of falling off a cliff,unable to breath,1
+unable to breath,wake up gasp,1
+corona virus,teeth started falling out,1
+dental surgeri,teeth started falling out,1
+corona virus,dental surgeri,1
+felt very sad,stopped breathing in my sleep,1
+coronavirus,felt very sad,1
+chest pain,felt very sad,1
+felt very sad,loss of control,1
+coronavirus,stopped breathing in my sleep,1
+chest pain,stopped breathing in my sleep,1
+loss of control,stopped breathing in my sleep,1
+chest pain,coronavirus,1
+chest pain,loss of control,1
+coronavirus,sar,1
+inability to use my hand,stench,1
+exhaust,extreme exhaust,1
+cough,intub,1
+cough,tears in my pillow,1
+intub,tears in my pillow,1
+covid,intub,1
+covid,tears in my pillow,1
+catch started pul,overwhelmingly large ey,1
+catch started pul,pandem,1
+anxieti,feeling anxi,1
+feeling anxi,tire,1
+apprehens,vague sense of suspens,1
+fatigu,lose my mind,1
+felt almost hungov,sleep paralysi,1
+felt almost hungov,lose my mind,1
+coronavirus,felt almost hungov,1
+felt almost hungov,out of breath,1
+fatigu,felt almost hungov,1
+covid,felt almost hungov,1
+felt almost hungov,tire,1
+lose my mind,sleep paralysi,1
+out of breath,sleep paralysi,1
+fatigu,sleep paralysi,1
+sleep paralysi,tire,1
+coronavirus,lose my mind,1
+lose my mind,out of breath,1
+covid,lose my mind,1
+faint,virus,1
+lose my mind,tire,1
+coronavirus,out of breath,1
+coronavirus,fatigu,1
+coronavirus,tire,1
+fatigu,out of breath,1
+covid,out of breath,1
+out of breath,tire,1
+covid,fatigu,1
+fatigu,tire,1
+covid,tire,1
+couldnt breath,fever,1
+couldnt breath,virus,1
+couldnt breath,faint,1
+sad and more than a little nerv,tire,1
+covid,sad and more than a little nerv,1
+fatigu,sad and more than a little nerv,1
+out of breath,sad and more than a little nerv,1
+infect,panic attack,1
+anxiety attack,infect,1
+anxiety attack,panic attack,1
+infect,pain,1
+infect,right eye was swollen and r,1
+heightened state of anticip,infect,1
+pain,right eye was swollen and r,1
+heightened state of anticip,pain,1
+right eye was swollen and r,virus,1
+heightened state of anticip,virus,1
+heightened state of anticip,right eye was swollen and r,1
+covid,waves in the ocean,1
+mentally handicap,virus,1
+green pollen,heart pound,1
+mental and physical pain,sad and more than a little nerv,1
+felt almost hungov,mental and physical pain,1
+mental and physical pain,sleep paralysi,1
+lose my mind,mental and physical pain,1
+coronavirus,mental and physical pain,1
+mental and physical pain,out of breath,1
+fatigu,mental and physical pain,1
+covid,mental and physical pain,1
+mental and physical pain,tire,1
+felt almost hungov,sad and more than a little nerv,1
+sad and more than a little nerv,sleep paralysi,1
+lose my mind,sad and more than a little nerv,1
+coronavirus,sad and more than a little nerv,1
+faint,fever,1
+cough,struggling to breath,1
+anxieti,cold and raini,1
+back was ach,bruis,1
+food insecur,unable to go back to sleep,1
+anxious,food insecur,1
+feel upset and anxi,food insecur,1
+anxieti,feel a great deal of sadness and abandon,1
+anxieti,unable to go back to sleep,1
+anxieti,feel upset and anxi,1
+feel a great deal of sadness and abandon,unable to go back to sleep,1
+anxious,feel a great deal of sadness and abandon,1
+feel a great deal of sadness and abandon,feel upset and anxi,1
+anxious,unable to go back to sleep,1
+feel upset and anxi,unable to go back to sleep,1
+anxious,feel upset and anxi,1
+back was ach,bruise covering my back,1
+bruis,bruise covering my back,1
+cough,increasingly unwel,1
+dry mouth,stress,1
+dry mouth,rather disori,1
+dry mouth,tire,1
+covid 19,stress,1
+covid 19,rather disori,1
+covid 19,tire,1
+rather disori,stress,1
+stress,tire,1
+rather disori,tire,1
+tension,vague sense of suspens,1
+dread,tension,1
+apprehens,tension,1
+dread,vague sense of suspens,1
+feel a great deal of sadness and abandon,food insecur,1
+anxieti,food insecur,1
+nausea,vertigo,1
+seizur,vomit,1
+increasingly unwel,struggling to breath,1
+felt duff,throb,1
+migrain,throb,1
+massive bloated stomach,throb,1
+felt duff,migrain,1
+felt duff,massive bloated stomach,1
+massive bloated stomach,migrain,1
+corona virus,strong anxious emot,1
+cough,felt weak,1
+felt weak,unable to breath,1
+asthma,felt weak,1
+chest was getting tight,felt weak,1
+felt weak,wheezing and gurgling in my chest,1
+cough,unable to breath,1
+chest was getting tight,cough,1
+cough,wheezing and gurgling in my chest,1
+unable to breath,virus,1
+chest was getting tight,virus,1
+virus,wheezing and gurgling in my chest,1
+asthma,unable to breath,1
+chest was getting tight,unable to breath,1
+unable to breath,wheezing and gurgling in my chest,1
+asthma,chest was getting tight,1
+asthma,wheezing and gurgling in my chest,1
+chest was getting tight,wheezing and gurgling in my chest,1
+felt oppress,flu,1
+felt oppress,virus,1
+cancer,heart attack,1
+coronavirus,heart attack,1
+dizzi,fatigu,1
+face completely disfigur,vomit,1
+anxieti,coughing and panick,1
+increasingly panick,unable to breath,1
+continuous cough,low grade fev,1
+panic,shallow breath,1
+chest hurting pan,panic,1
+chest hurting pan,shallow breath,1
+blood on the ground,felt my hands slip,1
+burning hot,cough,1
+struggling to take a full breath,unable to take a full breath,1
+swollen and diaphoret,vomit,1
+covid 19,swollen and diaphoret,1
+face completely disfigur,swollen and diaphoret,1
+eyes seemed to pop out of the socket,swollen and diaphoret,1
+eyes seemed to pop out of the socket,vomit,1
+dizzi,painful ringing in my brain,1
+covid 19,face completely disfigur,1
+covid 19,eyes seemed to pop out of the socket,1
+eyes seemed to pop out of the socket,face completely disfigur,1
+coronavirus,feel really sad,1
+feel really sad,feeling lon,1
+feel really sad,feeling very lon,1
+coronavirus,feeling lon,1
+coronavirus,feeling very lon,1
+feeling lon,feeling very lon,1
+compromised immune system,people laying on the floor,1
+immune compromis,people laying on the floor,1
+compromised immune system,immune compromis,1
+nightmar,sweat,1
+coughing and panick,mild hypochondriac,1
+anxieti,mild hypochondriac,1
+coughing and panick,trouble breath,1
+mild hypochondriac,trouble breath,1
+broken down,cold and raini,1
+cold and raini,tire,1
+anxieti,broken down,1
+anxieti,tire,1
+broken down,tire,1
+carpel tunnel,infect,1
+anxieti,infect,1
+carpel tunnel,virus,1
+anxieti,carpel tunnel,1
+mil started feeling unwel,virus,1
+mil started feeling unwel,remarkable sense of dread,1
+remarkable sense of dread,virus,1
+anxieti,astroid,1
+coronavirus,dark and black or green,1
+ebola,pandemic virus,1
+ebola,snore,1
+allergi,ebola,1
+ebola,nightmar,1
+pandemic virus,virus,1
+snore,virus,1
+pandemic virus,snore,1
+allergi,pandemic virus,1
+nightmar,pandemic virus,1
+allergi,snore,1
+nightmar,snore,1
+cough,mild hypochondriac,1
+cough,coughing and panick,1
+loss of breath,nightmar,1
+loss of breath,sweat,1
+coronavirus,general pan,1
+colleagues acting strang,shaving heads or dying hair,1
+anxieti,wandering aimless,1
+anxieti,colleagues acting strang,1
+coronavirus,labored breath,1
+labored breath,wandering aimless,1
+colleagues acting strang,labored breath,1
+coronavirus,wandering aimless,1
+colleagues acting strang,coronavirus,1
+colleagues acting strang,wandering aimless,1
+choke,unable to breath,1
+felt really sad,pandem,1
+terminally il,virus,1
+heightened anxieti,virus,1
+very loose sense of my dream,virus,1
+anxiety in the air,very loose sense of my dream,1
+anxieti,very loose sense of my dream,1
+very deep sleep,very loose sense of my dream,1
+anxiety in the air,virus,1
+very deep sleep,virus,1
+anxieti,anxiety in the air,1
+anxiety in the air,very deep sleep,1
+anxieti,very deep sleep,1
+fever,heart rac,1
+coronavirus,heart rac,1
+pain,painful ringing in my brain,1
+fatigu,pain,1
+dizzi,pain,1
+fatigu,painful ringing in my brain,1
+anxieti,labored breath,1
+shaving heads or dying hair,wandering aimless,1
+multiple health issu,wake up because the earth is shaking and the air is filled with electr,1
+coronavirus,shaving heads or dying hair,1
+virus,wake up because the earth is shaking and the air is filled with electr,1
+multiple health issu,virus,1
+corona,feel very sad,1
+anxieti,residual fear,1
+anxieti,wake up repeatedly through the night feeling uncomfortable and scar,1
+covid,residual fear,1
+covid,wake up repeatedly through the night feeling uncomfortable and scar,1
+residual fear,wake up repeatedly through the night feeling uncomfortable and scar,1
+corona,infect,1
+autoimmune diseas,vivid dream,1
+vivid dream,vivid nightmar,1
+autoimmune diseas,vivid nightmar,1
+autoimmune diseas,covid 19,1
+covid 19,vivid nightmar,1
+panic attack,virus,1
+coronavirus,increased stress,1
+covid 19,increased stress,1
+coronavirus,dark and muddi,1
+difficulty breath,uncontrollable cough,1
+runing out of breath,shaving heads or dying hair,1
+anxieti,runing out of breath,1
+labored breath,runing out of breath,1
+coronavirus,runing out of breath,1
+runing out of breath,wandering aimless,1
+colleagues acting strang,runing out of breath,1
+anxieti,shaving heads or dying hair,1
+labored breath,shaving heads or dying hair,1
+cough,embarrassing incontin,1
+felt dirty and taint,major breathing difficulti,1
+breathing issu,cough,1
+covid,heart palpit,1
+covid,experienced lots of spin,1
+terrible headach,wake up with my jaws clench,1
+feet turn weird color,zombie outbreak,1
+feet turn weird color,red rash,1
+covid rel,feet turn weird color,1
+feet turn weird color,stevens johnson syndrom,1
+red rash,zombie outbreak,1
+covid rel,zombie outbreak,1
+stevens johnson syndrom,zombie outbreak,1
+covid rel,red rash,1
+red rash,stevens johnson syndrom,1
+covid rel,stevens johnson syndrom,1
+agit,pandem,1
+agit,covid 19,1
+agit,cancer,1
+infect,serious respiratory problem,1
+serious respiratory problem,virus,1
+covid 19,serious respiratory problem,1
+asthma,serious respiratory problem,1
+asthma,infect,1
+lose one or more of my adult teeth,type tooth loss,1
+feel one getting loos,lose one or more of my adult teeth,1
+feel one getting loos,type tooth loss,1
+diabet,hypertens,1
+feeling very scared and anxi,virus,1
+increased loneli,lack of control,1
+felt conflict,teeth started falling out,1
+anxieti,experienced lots of spin,1
+anxieti,heart palpit,1
+felt conflict,teeth began to fall out,1
+experienced lots of spin,heart palpit,1
+massive pain around my right ey,pain with my hand over my ey,1
+massive pain around my right ey,not able able to mov,1
+feel paralyz,gash,1
+blood was dripping down my hand and arm,gash,1
+gash,pain with my hand over my ey,1
+gash,not able able to mov,1
+blood was dripping down my hand and arm,feel paralyz,1
+feel paralyz,pain with my hand over my ey,1
+feel paralyz,not able able to mov,1
+blood was dripping down my hand and arm,pain with my hand over my ey,1
+blood was dripping down my hand and arm,not able able to mov,1
+not able able to mov,pain with my hand over my ey,1
+cov,virus,1
+cov,sar,1
+intense clench jaw or fist,shortness of breath,1
+holding my breath,intense clench jaw or fist,1
+heart palpit,intense clench jaw or fist,1
+experienced lots of spin,intense clench jaw or fist,1
+anxieti,intense clench jaw or fist,1
+covid,intense clench jaw or fist,1
+holding my breath,shortness of breath,1
+heart palpit,shortness of breath,1
+experienced lots of spin,shortness of breath,1
+heart palpit,holding my breath,1
+experienced lots of spin,holding my breath,1
+anxieti,holding my breath,1
+covid,holding my breath,1
+anger,felt conflict,1
+felt conflict,lost every tooth,1
+intense pain,teeth began to fall out,1
+choke,teeth started falling out,1
+could feel my gums rub,teeth started falling out,1
+feel each of my teeth leaving their socket,teeth started falling out,1
+shame,teeth started falling out,1
+anxieti,teeth started falling out,1
+felt grief,teeth started falling out,1
+anger,teeth began to fall out,1
+anger,lost every tooth,1
+anger,trichotillomania,1
+anger,deep feeling of sham,1
+anger,compulsion to meticulously pull out my hair,1
+anger,intense pain,1
+anger,bald spot,1
+anger,covid,1
+anger,fear,1
+anger,relaps,1
+anger,covid 19,1
+anger,ocd condit,1
+anger,choke,1
+anger,self hatr,1
+anger,could feel my gums rub,1
+anger,feel each of my teeth leaving their socket,1
+anger,shame,1
+anger,anxieti,1
+anger,felt grief,1
+lost every tooth,teeth began to fall out,1
+teeth began to fall out,trichotillomania,1
+deep feeling of sham,teeth began to fall out,1
+self hatr,teeth started falling out,1
+ocd condit,teeth started falling out,1
+felt conflict,trichotillomania,1
+covid 19,teeth started falling out,1
+deep feeling of sham,felt conflict,1
+compulsion to meticulously pull out my hair,felt conflict,1
+felt conflict,intense pain,1
+bald spot,felt conflict,1
+covid,felt conflict,1
+fear,felt conflict,1
+felt conflict,relaps,1
+covid 19,felt conflict,1
+felt conflict,ocd condit,1
+choke,felt conflict,1
+felt conflict,self hatr,1
+could feel my gums rub,felt conflict,1
+feel each of my teeth leaving their socket,felt conflict,1
+felt conflict,shame,1
+anxieti,felt conflict,1
+felt conflict,felt grief,1
+anger,teeth started falling out,1
+teeth began to fall out,teeth started falling out,1
+lost every tooth,teeth started falling out,1
+teeth started falling out,trichotillomania,1
+deep feeling of sham,teeth started falling out,1
+compulsion to meticulously pull out my hair,teeth started falling out,1
+intense pain,teeth started falling out,1
+bald spot,teeth started falling out,1
+covid,teeth started falling out,1
+fear,teeth started falling out,1
+relaps,teeth started falling out,1
+blood was dripping down my hand and arm,massive pain around my right ey,1
+feel paralyz,massive pain around my right ey,1
+gash,massive pain around my right ey,1
+brace,infect,1
+crumbl,seasonal allergi,1
+allergi,crumbl,1
+bloody and icki,crumbl,1
+brace,crumbl,1
+covid,crumbl,1
+crumbl,teeth start tumbling out,1
+allergi,seasonal allergi,1
+bloody and icki,seasonal allergi,1
+brace,seasonal allergi,1
+covid,seasonal allergi,1
+seasonal allergi,teeth start tumbling out,1
+allergi,bloody and icki,1
+allergi,brace,1
+allergi,teeth start tumbling out,1
+bloody and icki,brace,1
+bloody and icki,covid,1
+bloody and icki,teeth start tumbling out,1
+brace,covid,1
+brace,teeth start tumbling out,1
+covid,teeth start tumbling out,1
+pig is missing its front right hoof,vivid dream,1
+covid,sweating and flush,1
+covid,lack of sleep,1
+covid 19,lack of sleep,1
+coronavirus thunderstorm,virus,1
+lack of control,pandem,1
+felt very tir,fever,1
+infect,teeth start tumbling out,1
+bloody and icki,infect,1
+gash on my lower eyelid,not able able to mov,1
+allergi,infect,1
+body ach,lost appetit,1
+covid,lost appetit,1
+intense dream,stress,1
+anxieti,intense dream,1
+intense dream,sore throat,1
+body ach,intense dream,1
+covid,intense dream,1
+sore throat,stress,1
+body ach,stress,1
+anxieti,body ach,1
+body ach,sore throat,1
+body ach,covid,1
+acn,virus,1
+feel vulnerable and unsaf,virus,1
+rona cough,virus,1
+acn,anxieti,1
+acn,panick,1
+acn,feel vulnerable and unsaf,1
+acn,rona cough,1
+anxieti,panick,1
+anxieti,feel vulnerable and unsaf,1
+anxieti,rona cough,1
+feel vulnerable and unsaf,panick,1
+panick,rona cough,1
+feel vulnerable and unsaf,rona cough,1
+crumbl,infect,1
+infect,seasonal allergi,1
+fever,pressure on my chest,1
+felt very tir,virus,1
+pressure on my chest,virus,1
+felt very tir,pressure on my chest,1
+chest pain,fear,1
+fear,higher blood pressur,1
+covid,paralysi,1
+felt immobil,large hands was grabbing me from behind,1
+nightmar,not being able to breath,1
+asthma,not being able to breath,1
+asthma,nightmar,1
+chunk of skin was torn off my upper eyelid,hurt myself very bad,1
+chunk of skin was torn off my upper eyelid,gash on my lower eyelid,1
+chunk of skin was torn off my upper eyelid,massive pain around my right ey,1
+chunk of skin was torn off my upper eyelid,gash,1
+chunk of skin was torn off my upper eyelid,feel paralyz,1
+blood was dripping down my hand and arm,chunk of skin was torn off my upper eyelid,1
+chunk of skin was torn off my upper eyelid,pain with my hand over my ey,1
+chunk of skin was torn off my upper eyelid,not able able to mov,1
+gash on my lower eyelid,hurt myself very bad,1
+hurt myself very bad,massive pain around my right ey,1
+gash,hurt myself very bad,1
+feel paralyz,hurt myself very bad,1
+blood was dripping down my hand and arm,hurt myself very bad,1
+hurt myself very bad,pain with my hand over my ey,1
+hurt myself very bad,not able able to mov,1
+gash on my lower eyelid,massive pain around my right ey,1
+gash,gash on my lower eyelid,1
+feel paralyz,gash on my lower eyelid,1
+blood was dripping down my hand and arm,gash on my lower eyelid,1
+gash on my lower eyelid,pain with my hand over my ey,1
+chest pain,higher blood pressur,1
+fear,nerves are shot,1
+higher blood pressur,nerves are shot,1
+chest pain,diabet,1
+felt very tir,tire,1
+pressure on my chest,tire,1
+gasping for air and chok,unable to breath,1
+difficulty breath,gasping for air and chok,1
+covid 19,gasping for air and chok,1
+difficulty breath,unable to breath,1
+covid 19,unable to breath,1
+covid 19,difficulty breath,1
+covid 19,diabet,1
+diabet,palpit,1
+anxieti,diabet,1
+diabet,nerves are shot,1
+diabet,higher blood pressur,1
+chest pain,nerves are shot,1
+diabet,fear,1
+covid 19,palpit,1
+covid 19,nerves are shot,1
+chest pain,covid 19,1
+covid 19,higher blood pressur,1
+anxieti,palpit,1
+nerves are shot,palpit,1
+chest pain,palpit,1
+higher blood pressur,palpit,1
+fear,palpit,1
+anxieti,nerves are shot,1
+anxieti,higher blood pressur,1
+compulsion to meticulously pull out my hair,teeth began to fall out,1
+bald spot,teeth began to fall out,1
+anxieti,lost appetit,1
+feel each of my teeth leaving their socket,felt grief,1
+felt grief,shame,1
+anxieti,felt grief,1
+covid 19,snore,1
+snake bit,sprained or broke my lower leg,1
+muscle cramps in my lower leg muscl,sprained or broke my lower leg,1
+muscle cramps in my lower leg muscl,snake bit,1
+dark cloud moving oddly across the ski,social distanc,1
+cold sweat,dark cloud moving oddly across the ski,1
+dark cloud moving oddly across the ski,faint buzzing sound,1
+dark cloud moving oddly across the ski,nightmar,1
+dark cloud moving oddly across the ski,growing green moss,1
+dark cloud moving oddly across the ski,undulating dark brown cloud,1
+cold sweat,social distanc,1
+faint buzzing sound,social distanc,1
+nightmar,social distanc,1
+growing green moss,social distanc,1
+social distanc,undulating dark brown cloud,1
+cold sweat,faint buzzing sound,1
+cold sweat,nightmar,1
+cold sweat,growing green moss,1
+cold sweat,undulating dark brown cloud,1
+faint buzzing sound,nightmar,1
+faint buzzing sound,growing green moss,1
+faint buzzing sound,undulating dark brown cloud,1
+growing green moss,nightmar,1
+nightmar,undulating dark brown cloud,1
+growing green moss,undulating dark brown cloud,1
+anxieti,shame,1
+anxieti,feel each of my teeth leaving their socket,1
+early stage breast canc,gynecological canc,1
+feel each of my teeth leaving their socket,shame,1
+covid 19,self hatr,1
+could feel my gums rub,covid 19,1
+covid 19,feel each of my teeth leaving their socket,1
+covid 19,shame,1
+covid 19,felt grief,1
+choke,ocd condit,1
+ocd condit,self hatr,1
+could feel my gums rub,ocd condit,1
+feel each of my teeth leaving their socket,ocd condit,1
+ocd condit,shame,1
+anxieti,ocd condit,1
+felt grief,ocd condit,1
+choke,self hatr,1
+choke,could feel my gums rub,1
+choke,feel each of my teeth leaving their socket,1
+choke,shame,1
+anxieti,choke,1
+choke,felt grief,1
+could feel my gums rub,self hatr,1
+feel each of my teeth leaving their socket,self hatr,1
+self hatr,shame,1
+anxieti,self hatr,1
+felt grief,self hatr,1
+could feel my gums rub,feel each of my teeth leaving their socket,1
+could feel my gums rub,shame,1
+anxieti,could feel my gums rub,1
+could feel my gums rub,felt grief,1
+black ant,black bug,1
+early stage breast canc,virus,1
+covid,teeth began to fall out,1
+burns the skin like acid,thunderstorm,1
+black and bruis,burns the skin like acid,1
+burns the skin like acid,irl,1
+burns the skin like acid,shaking with emot,1
+burns the skin like acid,fall asleep,1
+angry and fear,burns the skin like acid,1
+anxiety level is elev,thunderstorm,1
+anxiety level is elev,greasy grim,1
+anxiety level is elev,black and bruis,1
+anxiety level is elev,irl,1
+anxiety level is elev,shaking with emot,1
+anxiety level is elev,fall asleep,1
+angry and fear,anxiety level is elev,1
+greasy grim,thunderstorm,1
+black and bruis,thunderstorm,1
+irl,thunderstorm,1
+shaking with emot,thunderstorm,1
+fall asleep,thunderstorm,1
+angry and fear,thunderstorm,1
+black and bruis,greasy grim,1
+greasy grim,irl,1
+greasy grim,shaking with emot,1
+fall asleep,greasy grim,1
+angry and fear,greasy grim,1
+black and bruis,irl,1
+black and bruis,shaking with emot,1
+black and bruis,fall asleep,1
+angry and fear,black and bruis,1
+burns the skin like acid,greasy grim,1
+anxiety level is elev,burns the skin like acid,1
+cancer surgeri,early stage breast canc,1
+extremely vivid dream,wake up in the middle of the night,1
+gynecological canc,virus,1
+cancer surgeri,gynecological canc,1
+cancer surgeri,virus,1
+unwilling to get out get go,vague depress,1
+vague depress,wake up with feelngs of loss,1
+loneli,vague depress,1
+unwilling to get out get go,wake up with feelngs of loss,1
+loneli,unwilling to get out get go,1
+loneli,wake up with feelngs of loss,1
+tarama,virus,1
+fever,symptoms sore throat,1
+symptoms sore throat,virus,1
+covid,yellowish ey,1
+anxieti,covid19,1
+covid19,flu,1
+sneez,virus,1
+struggled and struggled to breath,virus,1
+cough,physical pain,1
+covid,felt close to tear,1
+coronavirus,felt close to tear,1
+felt close to tear,stress,1
+deeply disturb,teeth and gum,1
+deeply disturb,vivid dream,1
+and eyes and eyelid,deeply disturb,1
+teeth and gum,vivid dream,1
+and eyes and eyelid,teeth and gum,1
+and eyes and eyelid,vivid dream,1
+choke,covid 19,1
+covid 19,ocd condit,1
+felt grief,relaps,1
+compulsion to meticulously pull out my hair,trichotillomania,1
+bald spot,trichotillomania,1
+covid,trichotillomania,1
+fear,trichotillomania,1
+relaps,trichotillomania,1
+covid 19,trichotillomania,1
+ocd condit,trichotillomania,1
+choke,trichotillomania,1
+self hatr,trichotillomania,1
+could feel my gums rub,trichotillomania,1
+feel each of my teeth leaving their socket,trichotillomania,1
+shame,trichotillomania,1
+anxieti,trichotillomania,1
+felt grief,trichotillomania,1
+compulsion to meticulously pull out my hair,deep feeling of sham,1
+deep feeling of sham,intense pain,1
+bald spot,deep feeling of sham,1
+covid,deep feeling of sham,1
+deep feeling of sham,fear,1
+deep feeling of sham,relaps,1
+covid 19,deep feeling of sham,1
+deep feeling of sham,ocd condit,1
+choke,deep feeling of sham,1
+deep feeling of sham,self hatr,1
+could feel my gums rub,deep feeling of sham,1
+deep feeling of sham,feel each of my teeth leaving their socket,1
+deep feeling of sham,shame,1
+anxieti,deep feeling of sham,1
+intense pain,trichotillomania,1
+deep feeling of sham,trichotillomania,1
+anxieti,relaps,1
+felt grief,lost every tooth,1
+fear,teeth began to fall out,1
+relaps,teeth began to fall out,1
+covid 19,teeth began to fall out,1
+ocd condit,teeth began to fall out,1
+choke,teeth began to fall out,1
+self hatr,teeth began to fall out,1
+could feel my gums rub,teeth began to fall out,1
+feel each of my teeth leaving their socket,teeth began to fall out,1
+shame,teeth began to fall out,1
+anxieti,teeth began to fall out,1
+felt grief,teeth began to fall out,1
+lost every tooth,trichotillomania,1
+deep feeling of sham,lost every tooth,1
+compulsion to meticulously pull out my hair,lost every tooth,1
+intense pain,lost every tooth,1
+bald spot,lost every tooth,1
+covid,lost every tooth,1
+fear,lost every tooth,1
+lost every tooth,relaps,1
+covid 19,lost every tooth,1
+lost every tooth,ocd condit,1
+choke,lost every tooth,1
+lost every tooth,self hatr,1
+could feel my gums rub,lost every tooth,1
+feel each of my teeth leaving their socket,lost every tooth,1
+lost every tooth,shame,1
+anxieti,lost every tooth,1
+deep feeling of sham,felt grief,1
+compulsion to meticulously pull out my hair,intense pain,1
+bald spot,compulsion to meticulously pull out my hair,1
+compulsion to meticulously pull out my hair,covid,1
+bald spot,could feel my gums rub,1
+bald spot,feel each of my teeth leaving their socket,1
+bald spot,shame,1
+anxieti,bald spot,1
+bald spot,felt grief,1
+covid,fear,1
+covid,relaps,1
+covid,ocd condit,1
+covid,self hatr,1
+could feel my gums rub,covid,1
+covid,feel each of my teeth leaving their socket,1
+covid,shame,1
+covid,felt grief,1
+fear,relaps,1
+fear,ocd condit,1
+choke,fear,1
+fear,self hatr,1
+could feel my gums rub,fear,1
+fear,feel each of my teeth leaving their socket,1
+fear,felt grief,1
+covid 19,relaps,1
+ocd condit,relaps,1
+choke,relaps,1
+relaps,self hatr,1
+could feel my gums rub,relaps,1
+feel each of my teeth leaving their socket,relaps,1
+relaps,shame,1
+bald spot,self hatr,1
+bald spot,choke,1
+bald spot,ocd condit,1
+fear,intense pain,1
+compulsion to meticulously pull out my hair,fear,1
+compulsion to meticulously pull out my hair,relaps,1
+compulsion to meticulously pull out my hair,covid 19,1
+compulsion to meticulously pull out my hair,ocd condit,1
+choke,compulsion to meticulously pull out my hair,1
+compulsion to meticulously pull out my hair,self hatr,1
+compulsion to meticulously pull out my hair,could feel my gums rub,1
+compulsion to meticulously pull out my hair,feel each of my teeth leaving their socket,1
+compulsion to meticulously pull out my hair,shame,1
+anxieti,compulsion to meticulously pull out my hair,1
+compulsion to meticulously pull out my hair,felt grief,1
+bald spot,intense pain,1
+intense pain,relaps,1
+bald spot,covid 19,1
+covid 19,intense pain,1
+intense pain,ocd condit,1
+choke,intense pain,1
+intense pain,self hatr,1
+could feel my gums rub,intense pain,1
+feel each of my teeth leaving their socket,intense pain,1
+intense pain,shame,1
+anxieti,intense pain,1
+felt grief,intense pain,1
+bald spot,covid,1
+bald spot,fear,1
+bald spot,relaps,1
+lost appetit,sore throat,1
+lost appetit,stress,1
+cough,covid antibodi,1
+mutat,virus,1
+felt heavy and exhaust,virus,1
+severe developmental trauma,virus,1
+faulty belief system,mutat,1
+cove,faulty belief system,1
+covid,faulty belief system,1
+faulty belief system,felt heavy and exhaust,1
+faulty belief system,severe developmental trauma,1
+cove,mutat,1
+covid,mutat,1
+felt heavy and exhaust,mutat,1
+mutat,severe developmental trauma,1
+cove,covid,1
+cove,felt heavy and exhaust,1
+cove,severe developmental trauma,1
+covid,felt heavy and exhaust,1
+covid,severe developmental trauma,1
+felt heavy and exhaust,severe developmental trauma,1
+overwhelming sad,sense of loss,1
+overwhelming sad,virus,1
+anxieti,unable to rouse myself to wak,1
+anxieti,felt i was in a very light sleep,1
+felt i was in a very light sleep,unable to rouse myself to wak,1
+felt sad,virus,1
+coronavirus,felt like i was suffocating under my own lung,1
+coronavirus,coughing up blood,1
+coronavirus,strep throat,1
+coughing up blood,felt like i was suffocating under my own lung,1
+cove,virus,1
+faulty belief system,virus,1
+coughing up blood,strep throat,1
+severe developmental trauma,sociopath,1
+covid,pink ey,1
+corona,pain,1
+pain,trembl,1
+corona,trembl,1
+trembl,virus,1
+covid,dreams became more vivid,1
+light blue ey,weak,1
+infant lamb,light blue ey,1
+heart some sticks cracking and pop,light blue ey,1
+infant lamb,weak,1
+heart some sticks cracking and pop,weak,1
+heart some sticks cracking and pop,infant lamb,1
+felt extremely uncomfort,paranoid and isol,1
+cbg,virus,1
+cbg,skin condit,1
+skin condit,virus,1
+feel really bad,sore throat,1
+covid,feel really bad,1
+covid 19,feel really bad,1
+covid 19,temperature was so high,1
+cough,raspy productive cough,1
+sociopath,virus,1
+faulty belief system,sociopath,1
+mutat,sociopath,1
+cove,sociopath,1
+covid,sociopath,1
+felt heavy and exhaust,sociopath,1
+felt like i was suffocating under my own lung,strep throat,1
+cough,large amounts of bug,1
+coughing into the air,yellow sputum,1
+covid,high temperature fev,1
+covid,joints felt pain,1
+feeling very panicki,overweight,1
+feeling panicki,overweight,1
+feeling panicki,feeling very panicki,1
+covid,large purplish red area,1
+large purplish red area,virus,1
+covid 19,social anxieti,1
+could barely hear anyth,extremely stuffy nos,1
+extremely stuffy nos,throat was so sor,1
+extremely stuffy nos,severe ear infect,1
+could barely talk,extremely stuffy nos,1
+could barely hear anyth,throat was so sor,1
+could barely hear anyth,severe ear infect,1
+could barely hear anyth,could barely talk,1
+severe ear infect,throat was so sor,1
+could barely talk,throat was so sor,1
+could barely talk,severe ear infect,1
+cough,nose stuffed and runni,1
+extreme fatigu,nose stuffed and runni,1
+difficulty breath,nose stuffed and runni,1
+cough,extreme fatigu,1
+difficulty breath,extreme fatigu,1
+feeling it swell and burst,right nostril started drip,1
+cough,sore throat,1
+cough,coughing into the air,1
+cough,yellow sputum,1
+coughing into the air,sore throat,1
+flu,joints felt pain,1
+high temperature fev,joints felt pain,1
+injury on my upper left arm just below the should,pain of separ,1
+flu,high temperature fev,1
+injury on my upper left arm just below the should,skin on the tips of my thumbs were peeling away very deepli,1
+injury on my upper left arm just below the should,very deep slash,1
+deep skin injuri,injury on my upper left arm just below the should,1
+injuri,injury on my upper left arm just below the should,1
+cancer,injury on my upper left arm just below the should,1
+pain of separ,skin on the tips of my thumbs were peeling away very deepli,1
+pain of separ,very deep slash,1
+deep skin injuri,pain of separ,1
+injuri,pain of separ,1
+cancer,pain of separ,1
+skin on the tips of my thumbs were peeling away very deepli,very deep slash,1
+deep skin injuri,skin on the tips of my thumbs were peeling away very deepli,1
+injuri,skin on the tips of my thumbs were peeling away very deepli,1
+cancer,skin on the tips of my thumbs were peeling away very deepli,1
+deep skin injuri,very deep slash,1
+injuri,very deep slash,1
+cancer,very deep slash,1
+deep skin injuri,injuri,1
+cancer,deep skin injuri,1
+cancer,injuri,1
+cough,joints were hurt,1
+high temperature fev,joints were hurt,1
+flu,joints were hurt,1
+joints felt pain,joints were hurt,1
+covid,joints were hurt,1
+cough,high temperature fev,1
+cough,joints felt pain,1
+anxieti,pink ey,1
+covid,stuffed up,1
+anxieti,stuffed up,1
+air hung,covid 19,1
+eyes were hug,stomach pain,1
+exhaust,severe weath,1
+sensation of an orgasm,urinating on myself,1
+pandem,urinating on myself,1
+pandem,sensation of an orgasm,1
+restless,shake,1
+coronavirus,felt very uncomfort,1
+alien invas,felt very uncomfort,1
+alien invas,coronavirus,1
+cancer,virus,1
+ebola,sense of forebod,1
+ebola,herniated a disk,1
+herniated a disk,sense of forebod,1
+anxieti,started to get anxi,1
+coronavirus,started to get anxi,1
+covid,pancreatic canc,1
+difficulty with dream recal,severe sleep disord,1
+intense leg pain,shortness of breath,1
+diseas,intense leg pain,1
+diseas,shortness of breath,1
+cold,scratchy throat,1
+cold,runny nos,1
+cold,covid,1
+cold,feel anxi,1
+runny nos,scratchy throat,1
+covid,scratchy throat,1
+feel anxi,scratchy throat,1
+air hung,strong sense of fear and anxieti,1
+covid 19,strong sense of fear and anxieti,1
+pink ey,stuffed up,1
+air hung,vomit,1
+throat was dri,virus,1
+asymptomat,throat was dri,1
+anxieti,throat was dri,1
+sore throat,throat was dri,1
+mild sore throat,throat was dri,1
+asymptomat,virus,1
+sore throat,virus,1
+mild sore throat,virus,1
+anxieti,asymptomat,1
+asymptomat,sore throat,1
+asymptomat,mild sore throat,1
+mild sore throat,sore throat,1
+felt weak,fever,1
+felt weak,tire,1
+anxieti,lack of control,1
+lack of control,unable to locate the exit,1
+anxieti,unable to locate the exit,1
+anxieti,everything around me started to get blurri,1
+everything around me started to get blurri,trouble breath,1
+couldnt breath wel,trouble breath,1
+anxieti,couldnt breath wel,1
+cough,couldnt breath wel,1
+struggling to breath,vomit,1
+covid 19,struggling to breath,1
+strong sense of fear and anxieti,struggling to breath,1
+air hung,struggling to breath,1
+strong sense of fear and anxieti,vomit,1
+covid,runny nos,1
+feel anxi,runny nos,1
+covid,feel anxi,1
+badly injur,bleed,1
+reinfect,throat is lock,1
+infect,unable to speak or swallow,1
+infect,throat is lock,1
+throat is lock,unable to speak or swallow,1
+coughing uncontrol,starts to lose her bal,1
+bones are turning to mush,coughing uncontrol,1
+coughing uncontrol,throwing up green and black slim,1
+bones are turning to mush,starts to lose her bal,1
+starts to lose her bal,throwing up green and black slim,1
+bones are turning to mush,throwing up green and black slim,1
+loss of control,virus,1
+anxieti,loss of control,1
+eyes started to get goopi,groggi,1
+eyes started to get goopi,trouble getting myself up from my nap,1
+eyes started to get goopi,stuffed up,1
+eyes started to get goopi,pink ey,1
+anxieti,eyes started to get goopi,1
+covid,eyes started to get goopi,1
+groggi,trouble getting myself up from my nap,1
+groggi,stuffed up,1
+groggi,pink ey,1
+anxieti,groggi,1
+covid,groggi,1
+stuffed up,trouble getting myself up from my nap,1
+pink ey,trouble getting myself up from my nap,1
+anxieti,trouble getting myself up from my nap,1
+covid,trouble getting myself up from my nap,1
+reinfect,unable to speak or swallow,1
+infect,reinfect,1
+green ey,wound,1
+coronavirus,menopaus,1
+covid,feel a pit in my stomach,1
+anxieti,feel a pit in my stomach,1
+cancer,feel a pit in my stomach,1
+anxieti,cancer,1
+black and white creatur,sardonic grin,1
+black and white creatur,round head,1
+black and white creatur,round ey,1
+round head,sardonic grin,1
+round ey,sardonic grin,1
+round ey,round head,1
+menopaus,trouble sleep,1
+felt naus,menopaus,1
+felt naus,trouble sleep,1
+high heel,wound,1
+coronavirus,trouble sleep,1
+coronavirus,felt naus,1
+black cloud of dust,black ey,1
+black ey,night terror,1
+black cloud of dust,night terror,1
+diarrhea in his diap,leaks urin,1
+leaks urin,struggles to breathe and turns blu,1
+diarrhea in his diap,struggles to breathe and turns blu,1
+exhaust,high heel,1
+exhaust,green ey,1
+exhaust,wound,1
+green ey,high heel,1
+sore throat,yellow sputum,1
+fever,vomit,1
+intense dream,lost appetit,1
+overall muscular tight,sense of urg,1
+losing taste and smel,virus,1
+loud ringing sound started quietly in my head then got louder and loud,virus,1
+losing taste and smel,loud ringing sound started quietly in my head then got louder and loud,1
+blistery rash,left breast was covered in a r,1
+blistery rash,breast canc,1
+breast canc,left breast was covered in a r,1
+felt it in my ear,pains in my torso,1
+felt it in my ear,no longer tickling me in my ear,1
+bruises afterwards under my fingernail,felt it in my ear,1
+no longer tickling me in my ear,pains in my torso,1
+bruises afterwards under my fingernail,pains in my torso,1
+bruises afterwards under my fingernail,no longer tickling me in my ear,1
+bug,bus swarm,1
+bus swarm,covid,1
+bloody sputum,dizzi,1
+dizzi,terror,1
+bloody sputum,terror,1
+anxieti,difficulty reattaching my mask,1
+difficulty reattaching my mask,virus,1
+asymptomatic carri,virus,1
+bruised head,flushed and cough,1
+balding hair,bruised head,1
+balding hair,flushed and cough,1
+anxieti,sleepless night,1
+super scar,virus,1
+gag reflex,scratchy ey,1
+covid,gag reflex,1
+ongoing sense of urgency and pan,sense of urg,1
+ongoing sense of urgency and pan,overall muscular tight,1
+crying out in my sleep,felt so sad and helpless,1
+deep sense of pan,sense of urg,1
+dry cough,hyperventil,1
+brain inflamm,profusely sw,1
+brain inflamm,flush,1
+brain inflamm,tear gas like fog,1
+brain inflamm,hyperventil,1
+flush,profusely sw,1
+profusely sw,tear gas like fog,1
+hyperventil,profusely sw,1
+flush,tear gas like fog,1
+flush,hyperventil,1
+hyperventil,tear gas like fog,1
+growing sense of uneas,panting heavili,1
+covid,panting heavili,1
+crippled leg,panting heavili,1
+panting heavili,very anxi,1
+covid,growing sense of uneas,1
+crippled leg,growing sense of uneas,1
+growing sense of uneas,very anxi,1
+covid,crippled leg,1
+covid,very anxi,1
+crippled leg,very anxi,1
+deep sense of pan,shortness of breath,1
+overall muscular tight,shortness of breath,1
+ongoing sense of urgency and pan,shortness of breath,1
+sense of urg,shortness of breath,1
+deep sense of pan,overall muscular tight,1
+deep sense of pan,ongoing sense of urgency and pan,1
+covid,scratchy ey,1
+virus,wake up in a sweat,1
+breathing heard and afraid,fever,1
+not catch my breath,super hot,1
+anxious,felt really out of breath,1
+anxious,not catch my breath,1
+anxious,covid,1
+felt really out of breath,not catch my breath,1
+covid,felt really out of breath,1
+covid,not catch my breath,1
+fever,tired,1
+fever,lost appetit,1
+fever,intense dream,1
+fever,stress,1
+anxieti,fever,1
+body ach,fever,1
+dry cough,tired,1
+lost appetit,tired,1
+intense dream,tired,1
+stress,tired,1
+anxieti,tired,1
+sore throat,tired,1
+body ach,tired,1
+covid,tired,1
+dry cough,lost appetit,1
+dry cough,intense dream,1
+dry cough,stress,1
+anxieti,dry cough,1
+dry cough,sore throat,1
+body ach,dry cough,1
+covid,dry cough,1
+covid,super hot,1
+felt really out of breath,super hot,1
+gasp,wake up in a sweat,1
+anxious,super hot,1
+gasp,virus,1
+social distanc,woke up feeling very sad and lon,1
+anxieti,insomnia,1
+extreme paranoia,insomnia,1
+anxieti,extreme paranoia,1
+cold and grey,depress,1
+suffocated or drown,unable to breath,1
+covid,lung canc,1
+fever,lung canc,1
+lung canc,stomach pain,1
+covid,stomach pain,1
+fever,stomach pain,1
+covid,ebola,1
+convuls,coronavirus,1
+fever,respiratory allergi,1
+fever,super hot,1
+felt really out of breath,fever,1
+fever,not catch my breath,1
+respiratory allergi,virus,1
+super hot,virus,1
+felt really out of breath,virus,1
+not catch my breath,virus,1
+respiratory allergi,super hot,1
+anxious,respiratory allergi,1
+felt really out of breath,respiratory allergi,1
+not catch my breath,respiratory allergi,1
+covid,respiratory allergi,1
+dry cough,tear gas like fog,1
+dry cough,flush,1
+dry cough,profusely sw,1
+choke,diarrhea,1
+choke,sweat,1
+loss of control,sore throat,1
+diarrhea,sore throat,1
+sore throat,toss,1
+sore throat,sweat,1
+diarrhea,loss of control,1
+loss of control,toss,1
+loss of control,sweat,1
+diarrhea,toss,1
+covid,diarrhea,1
+diarrhea,sweat,1
+covid,toss,1
+sweat,toss,1
+covid,sweat,1
+extremely high or low read,feeling incredibly terrifi,1
+feeling incredibly terrifi,trouble breath,1
+feeling incredibly terrifi,feverish,1
+feeling incredibly terrifi,green gross snot,1
+feeling incredibly terrifi,stuffy nos,1
+extremely high or low read,trouble breath,1
+extremely high or low read,feverish,1
+extremely high or low read,green gross snot,1
+extremely high or low read,stuffy nos,1
+feverish,trouble breath,1
+green gross snot,trouble breath,1
+stuffy nos,trouble breath,1
+feverish,green gross snot,1
+choke,toss,1
+choke,loss of control,1
+brain inflamm,dry cough,1
+choke,sore throat,1
+fever,heart attack,1
+choke,fever,1
+fever,loss of control,1
+diarrhea,fever,1
+fever,toss,1
+breathing heard and afraid,vomit,1
+heart attack,vomit,1
+choke,vomit,1
+sore throat,vomit,1
+loss of control,vomit,1
+diarrhea,vomit,1
+toss,vomit,1
+sweat,vomit,1
+breathing heard and afraid,heart attack,1
+breathing heard and afraid,choke,1
+breathing heard and afraid,sore throat,1
+breathing heard and afraid,loss of control,1
+breathing heard and afraid,diarrhea,1
+breathing heard and afraid,toss,1
+breathing heard and afraid,covid,1
+breathing heard and afraid,sweat,1
+choke,heart attack,1
+heart attack,sore throat,1
+heart attack,loss of control,1
+diarrhea,heart attack,1
+heart attack,toss,1
+heart attack,sweat,1
+feverish,stuffy nos,1
+green gross snot,stuffy nos,1
+anxieti,wake up and feel anxi,1
+cough,wipe their nos,1
+covid,covid zombi,1
+fever,soul crushing sad,1
+back hurt,fever,1
+back and legs hurt,fever,1
+back hurt,soul crushing sad,1
+back and legs hurt,soul crushing sad,1
+cancer,soul crushing sad,1
+back and legs hurt,back hurt,1
+back hurt,cancer,1
+back and legs hurt,cancer,1
+fever,panic,1
+covid 19,panic,1
+dry cough,panic,1
+brain inflamm,panic,1
+panic,profusely sw,1
+panic,tear gas like fog,1
+brain inflamm,fever,1
+fever,profusely sw,1
+fever,flush,1
+fever,tear gas like fog,1
+fever,hyperventil,1
+covid 19,dry cough,1
+brain inflamm,covid 19,1
+covid 19,profusely sw,1
+covid 19,flush,1
+covid 19,tear gas like fog,1
+covid 19,hyperventil,1
+covid zombi,trouble breath,1
+covid zombi,virus,1
+coughing uncontrol,covid,1
+corona virus,dementia,1
+contracting hiv,coronavirus,1
+coronavirus,waking up panick,1
+contracting hiv,corona virus,1
+corona virus,covid,1
+corona virus,waking up panick,1
+contracting hiv,covid,1
+contracting hiv,waking up panick,1
+covid,waking up panick,1
+corona virus,infect,1
+dementia,infect,1
+deliri,infect,1
+infect,pinkish purple bubbles from her nos,1
+corona virus,deliri,1
+coughing uncontrol,trouble breath,1
+corona virus,pinkish purple bubbles from her nos,1
+deliri,dementia,1
+dementia,pinkish purple bubbles from her nos,1
+deliri,pinkish purple bubbles from her nos,1
+covid,felt a sense of crushing regret,1
+paralysi,sleep paralysi,1
+cough,radiation burns on their skin,1
+cough,radiation poison,1
+radiation burns on their skin,radiation poison,1
+dread sleep,virus,1
+coughing uncontrol,virus,1
+coughing uncontrol,covid zombi,1
+irl,shaking with emot,1
+fall asleep,irl,1
+angry and fear,irl,1
+dementia,severe asthma,1
+cough,eating my skin,1
+cough,splinter in my palm,1
+asthma attack,cough,1
+eating my skin,splinter in my palm,1
+asthma attack,eating my skin,1
+anxieti,eating my skin,1
+asthma attack,splinter in my palm,1
+anxieti,splinter in my palm,1
+anxieti,asthma attack,1
+darker and cold,starting to get dark,1
+boss panicking and falling apart,covid 19,1
+consumptive diseas,coronavirus,1
+infect,shortness of breath,1
+cough,difficulty with breath,1
+cough,gas that were filling up the corridor,1
+cough,felt that i was suffoc,1
+difficulty with breath,virus,1
+gas that were filling up the corridor,virus,1
+felt that i was suffoc,virus,1
+difficulty with breath,gas that were filling up the corridor,1
+coronavirus,difficulty with breath,1
+difficulty with breath,felt that i was suffoc,1
+coronavirus,gas that were filling up the corridor,1
+felt that i was suffoc,gas that were filling up the corridor,1
+coronavirus,felt that i was suffoc,1
+corona,vomit,1
+corona,corona virus,1
+dementia,weak lung,1
+severe asthma,weak lung,1
+corona virus,vomit,1
+dementia,pneumonia,1
+started to get really sick,virus,1
+night sweat,virus,1
+started to get really sick,visibly sw,1
+nightmar,visibly sw,1
+night sweat,visibly sw,1
+nightmar,started to get really sick,1
+night sweat,started to get really sick,1
+night sweat,nightmar,1
+genetic condit,virus,1
+morning sick,virus,1
+virus,weak lung,1
+covid19,genetic condit,1
+covid19,morning sick,1
+covid19,severe asthma,1
+covid19,weak lung,1
+covid19,dementia,1
+genetic condit,morning sick,1
+genetic condit,pneumonia,1
+genetic condit,severe asthma,1
+genetic condit,weak lung,1
+dementia,genetic condit,1
+morning sick,pneumonia,1
+morning sick,severe asthma,1
+morning sick,weak lung,1
+dementia,morning sick,1
+pneumonia,severe asthma,1
+pneumonia,weak lung,1
+coronavirus,vomit,1
+covid,unable to clear my sinus,1
+extremely il,gi symptom,1
+falls down soundless,virus,1
+coronavirus,feeling angry and trap,1
+cough,coughing more sever,1
+panic,sob,1
+anxiety fil,panic,1
+anxieti,sob,1
+anxieti,hyperventil,1
+anxieti,anxiety fil,1
+hyperventil,sob,1
+anxiety fil,sob,1
+anxiety fil,hyperventil,1
+coronavirus,feel very uncomfort,1
+anxieti,corona crisi,1
+corona crisi,depress,1
+corona crisi,pain,1
+depress,pain,1
+covid,dreams have become very long,1
+afraid of loosing my be,bad fev,1
+afraid of loosing my be,virus,1
+afraid of loosing my be,anxieti,1
+afraid of loosing my be,anxious,1
+bad fev,virus,1
+anxieti,bad fev,1
+anxious,bad fev,1
+coronavirus,tummy hurt,1
+difficult to walk,trouble se,1
+gi symptom,shortness of breath,1
+extremely il,shortness of breath,1
+swarm of be,virus,1
+falls down soundless,swarm of be,1
+covid,extremely congest,1
+gasping for air,sleep paralysi,1
+unable to clear my sinus,virus,1
+extremely congest,virus,1
+extremely congest,unable to clear my sinus,1
+twitching in agoni,virus,1
+sweat,twitching in agoni,1
+corona virus,twitching in agoni,1
+corona virus,sweat,1
+exhaust,swollen up in my mouth,1
+covid 19,exhaust,1
+swollen up in my mouth,virus,1
+covid 19,swollen up in my mouth,1
+eyes are turning r,virus,1
+not being able to breath,overwhelming sense of forebod,1
+memory loss,no recollection of how things got back to norm,1
+infect,peeling skin,1
+peeling skin,virus,1
+pandem,peeling skin,1
+virus,widespread pan,1
+crying with real tears and sad,feeling emot,1
+dreams of overflowing water bathtub overflow,virus,1
+leaks in the ceil,virus,1
+dreams of overflowing water bathtub overflow,leaks in the ceil,1
+chemical burn,virus,1
+chemical burn,trouble breath,1
+sleep paralysi,trouble breath,1
+chemical burn,sleep paralysi,1
+chemical burn,gasping for air,1
+virus,visibly sw,1
+cough,night sweat,1
+cough,started to get really sick,1
+cough,totally dry mouth,1
+coughing up phlegm,virus,1
+tongue was dri,virus,1
+totally dry mouth,virus,1
+parch,virus,1
+coughing up phlegm,tongue was dri,1
+coronavirus,coughing up phlegm,1
+coughing up phlegm,exhaust,1
+coughing up phlegm,totally dry mouth,1
+coughing up phlegm,parch,1
+coronavirus,tongue was dri,1
+exhaust,tongue was dri,1
+tongue was dri,totally dry mouth,1
+parch,tongue was dri,1
+coronavirus,exhaust,1
+coronavirus,totally dry mouth,1
+coronavirus,parch,1
+exhaust,totally dry mouth,1
+exhaust,parch,1
+parch,totally dry mouth,1
+dull and ban,virus,1
+bands of r,bug,1
+laying down on my bed on my left should,sleep paralysi,1
+corona,sick as a dog,1
+sick as a dog,virus,1
+seasick,sick as a dog,1
+corona,seasick,1
+seasick,virus,1
+cough,parch,1
+cough,exhaust,1
+cough,visibly sw,1
+cough,tongue was dri,1
+coronavirus,shaken awak,1
+coronavirus,dislocated should,1
+acute episod,psychotic break,1
+intense look on my fac,psychotic break,1
+psychotic break,psychotic episod,1
+crumpled on the floor,psychotic break,1
+mute apathi,psychotic break,1
+acute episod,intense look on my fac,1
+acute episod,psychotic episod,1
+acute episod,crumpled on the floor,1
+acute episod,mute apathi,1
+intense look on my fac,psychotic episod,1
+crumpled on the floor,intense look on my fac,1
+intense look on my fac,mute apathi,1
+crumpled on the floor,psychotic episod,1
+mute apathi,psychotic episod,1
+crumpled on the floor,mute apathi,1
+bald patch,cough,1
+bald,bald patch,1
+bald patch,bloody and scab,1
+bald patch,coronavirus,1
+bald,cough,1
+bloody and scab,cough,1
+bald,bloody and scab,1
+bald,coronavirus,1
+bloody and scab,coronavirus,1
+cough,coughing up phlegm,1
+covid,unable to go back to sleep,1
+coronavirus,unable to go back to sleep,1
+pressur,unable to mov,1
+cold sweat,unable to mov,1
+covid,covid 19 pan,1
+covid 19 pan,virus,1
+bonemarrow canc,covid contamin,1
+covid contamin,false teeth broken,1
+covid contamin,severe respiration problem,1
+covid contamin,damaged lung,1
+bonemarrow canc,false teeth broken,1
+bonemarrow canc,severe respiration problem,1
+bonemarrow canc,damaged lung,1
+false teeth broken,severe respiration problem,1
+damaged lung,false teeth broken,1
+damaged lung,severe respiration problem,1
+pain,very high soft voic,1
+aphid,pain,1
+aphid,very high soft voic,1
+insomnia,virus,1
+emotions went from sadness to ang,squirming and flutt,1
+teeth are falling out,teeth started to fall out,1
+felt embarrass,teeth are falling out,1
+felt embarrass,teeth started to fall out,1
+anxieti,overwhelming sense of sad,1
+coronavirus,overwhelming sense of sad,1
+trama,virus,1
+virus,wasp,1
+pandem,wasp,1
+anxieti,forget,1
+forget,virus,1
+anxieti,covid 19 pan,1
+skin was raw and ach,sweating and pal,1
+sweating and pal,zombie virus,1
+infect,skin was raw and ach,1
+sleep paralysi,unable to mov,1
+goose bump,unable to mov,1
+cold sweat,pressur,1
+pressur,sleep paralysi,1
+goose bump,pressur,1
+cold sweat,sleep paralysi,1
+cold sweat,goose bump,1
+goose bump,sleep paralysi,1
+ears r,infect,1
+body ach,infect,1
+bleed,infect,1
+infect,zombie virus,1
+infect,sweating and pal,1
+skin was raw and ach,zombie virus,1
+body ach,ears r,1
+bleed,ears r,1
+ears r,zombie virus,1
+ears r,skin was raw and ach,1
+ears r,sweating and pal,1
+bleed,body ach,1
+body ach,zombie virus,1
+body ach,skin was raw and ach,1
+body ach,sweating and pal,1
+bleed,zombie virus,1
+bleed,skin was raw and ach,1
+bleed,sweating and pal,1
+extreme fatigu,shortness of breath,1
+extreme fatigu,gi symptom,1
+fall asleep,shaking with emot,1
+heart failur,influenza,1
+cancer,influenza,1
+appetit,severe respiratory il,1
+appetit,pandem,1
+appetit,heart failur,1
+appetit,dry hacking cough,1
+appetit,cancer,1
+pandem,severe respiratory il,1
+heart failur,severe respiratory il,1
+dry hacking cough,severe respiratory il,1
+cancer,severe respiratory il,1
+heart failur,pandem,1
+dry hacking cough,pandem,1
+dry hacking cough,heart failur,1
+cancer,heart failur,1
+cancer,dry hacking cough,1
+constantly anxi,mu postur,1
+constantly anxi,troubles breath,1
+mu postur,troubles breath,1
+extremely confus,nightmar,1
+anxieti,respitory distress,1
+covid,respitory distress,1
+major breathing difficulti,virus,1
+major breathing difficulti,t virus,1
+lung damag,major breathing difficulti,1
+fever,major breathing difficulti,1
+breathing difficulti,major breathing difficulti,1
+coronavirus,skin on my lower legs and feet started to blister and ble,1
+dry hacking cough,influenza,1
+influenza,pandem,1
+lung damag,virus,1
+influenza,severe respiratory il,1
+abdominal tumor,dry hacking cough,1
+abdominal tumor,cancer,1
+asthma,lost my tast,1
+covid pneumonia,lost my tast,1
+influenza,lost my tast,1
+appetit,lost my tast,1
+lost my tast,severe respiratory il,1
+lost my tast,pandem,1
+heart failur,lost my tast,1
+dry hacking cough,lost my tast,1
+cancer,lost my tast,1
+asthma,covid pneumonia,1
+asthma,influenza,1
+appetit,asthma,1
+asthma,severe respiratory il,1
+asthma,pandem,1
+asthma,heart failur,1
+asthma,dry hacking cough,1
+asthma,cancer,1
+covid pneumonia,influenza,1
+appetit,covid pneumonia,1
+covid pneumonia,severe respiratory il,1
+covid pneumonia,pandem,1
+covid pneumonia,heart failur,1
+covid pneumonia,dry hacking cough,1
+cancer,covid pneumonia,1
+appetit,influenza,1
+t virus,virus,1
+breathing difficulti,virus,1
+covid,gi symptom,1
+exhaust,short of breath,1
+nightmar,pandemic nightmar,1
+bug,covid 19,1
+covid 19,food poison,1
+bug,food poison,1
+anxieti,bug,1
+bug,flu,1
+anxieti,food poison,1
+flu,food poison,1
+covid,food poison,1
+2019,virus,1
+common cold virus,virus,1
+common cold virus,regular common cold virus,1
+common cold,common cold virus,1
+regular common cold virus,virus,1
+common cold,virus,1
+common cold,regular common cold virus,1
+covid,parano,1
+cough,respiratory symptom,1
+coughing up black liquid that had a texture similar to puréed berri,respiratory symptom,1
+cough,coughing up black liquid that had a texture similar to puréed berri,1
+ptsd,virus,1
+heart rate was tachycard,sweat,1
+moon like object from the ski,tremor,1
+cough,influenza a,1
+cough,kidney so hurt intens,1
+allergi,cough,1
+cough,suffoc,1
+agit,short of breath,1
+agit,exhaust,1
+felt dirty and taint,virus,1
+dementia,feeling quite anxious and terrifi,1
+lung damag,t virus,1
+fever,t virus,1
+breathing difficulti,t virus,1
+felt dirty and taint,t virus,1
+fever,lung damag,1
+breathing difficulti,lung damag,1
+felt dirty and taint,lung damag,1
+felt dirty and taint,fever,1
+breathing difficulti,felt dirty and taint,1
+collapsed on the floor,felt my whole chest get anxi,1
+coronavirus,felt my whole chest get anxi,1
+feel myself getting weaker and weak,felt my whole chest get anxi,1
+collapsed on the floor,coronavirus,1
+collapsed on the floor,feel myself getting weaker and weak,1
+coronavirus,feel myself getting weaker and weak,1
+very foggy and black and whit,wake up with my heart rac,1
+very foggy and black and whit,woke up scream,1
+wake up with my heart rac,woke up scream,1
+asthma,couldnt breath wel,1
+asthma,paralyz,1
+couldnt breath wel,paralyz,1
+append,pain,1
+anxieti,bird flu,1
+anxieti,dementia,1
+anxieti,feeling quite anxious and terrifi,1
+bird flu,dementia,1
+bird flu,feeling quite anxious and terrifi,1
+abdominal tumor,heart failur,1
+abdominal tumor,pandem,1
+abdominal tumor,severe respiratory il,1
+asthma,purple goop ruining my lung,1
+feels like water fills my lung,purple goop ruining my lung,1
+heart is beating fast,nightmar,1
+felt helpless,felt terrifi,1
+covid,felt panick,1
+bleed,bleeding from the hand,1
+creep,felt something wrong,1
+creep,something wet and moving in my bedsheet,1
+felt something wrong,something wet and moving in my bedsheet,1
+plagu,zombie virus,1
+covid 19,high fev,1
+covid 19,terrible cough,1
+corona,salivating a lot,1
+covid 19,pain,1
+covid,hemorrhagic fev,1
+paralysi,unable to mov,1
+lumbar punctur,tracheotomi,1
+isol,virus,1
+coronavirus,isol,1
+covid 19,isol,1
+anxieti,dizzi,1
+coronavirus,dizzi,1
+coughing and sneez,dizzi,1
+dizzi,felt hot,1
+anxieti,coughing and sneez,1
+anxieti,felt hot,1
+coronavirus,coughing and sneez,1
+coronavirus,felt hot,1
+asthma,feels like water fills my lung,1
+nightmar,pandem,1
+abdominal tumor,appetit,1
+covid,faint anxieti,1
+extreme fatigu,extremely il,1
+covid,extremely il,1
+covid,extreme fatigu,1
+bloodshot ey,shrivelling into dust,1
+bloodshot ey,eyes grew weary and bloodshot,1
+bloodshot ey,eyes remained bloodshot,1
+eyes grew weary and bloodshot,shrivelling into dust,1
+eyes remained bloodshot,shrivelling into dust,1
+eyes grew weary and bloodshot,eyes remained bloodshot,1
+cov,sras,1
+emitting toxic gas,fever,1
+anxious,emitting toxic gas,1
+covid,severe respiratory problem,1
+influenza flu,severe respiratory problem,1
+covid,influenza flu,1
+cough,cough so hard they coughed up their lung,1
+extreme rash,rash,1
+anxieti,sense of pan,1
+losing teeth,teeth turning to powd,1
+falling il,virus,1
+faint anxieti,virus,1
+faint anxieti,falling il,1
+falling il,nightmar,1
+falling il,pandem,1
+covid,falling il,1
+faint anxieti,nightmar,1
+faint anxieti,pandem,1
+coughing and sneez,felt hot,1
+coronavirus,short of breath,1
+kept falling back asleep,sweating pan,1
+cough,hard to breath,1
+appetit,fever,1
+fever,severe respiratory il,1
+fever,heart failur,1
+dry hacking cough,fever,1
+abdominal tumor,shortness of breath,1
+lost my tast,shortness of breath,1
+asthma,shortness of breath,1
+covid pneumonia,shortness of breath,1
+influenza,shortness of breath,1
+appetit,shortness of breath,1
+severe respiratory il,shortness of breath,1
+pandem,shortness of breath,1
+heart failur,shortness of breath,1
+dry hacking cough,shortness of breath,1
+cancer,shortness of breath,1
+abdominal tumor,covid 19,1
+covid 19,lost my tast,1
+covid 19,covid pneumonia,1
+covid 19,influenza,1
+appetit,covid 19,1
+covid 19,severe respiratory il,1
+covid 19,heart failur,1
+covid 19,dry hacking cough,1
+abdominal tumor,lost my tast,1
+abdominal tumor,asthma,1
+abdominal tumor,covid pneumonia,1
+abdominal tumor,influenza,1
+fever,influenza,1
+covid pneumonia,fever,1
+asthma,fever,1
+fatigu,shortness of breath,1
+hard to breath,virus,1
+anxieti,hard to breath,1
+covid,hard to breath,1
+covid,violent and angri,1
+pandem,violent and angri,1
+attach to their ey,coronavirus,1
+covid 19 pandem,virus,1
+covid 19 pandem,paranoia,1
+paranoia,virus,1
+felt somewhat uncomfort,mental il,1
+feeling sick,respiratory failur,1
+fatigu,fever,1
+covid 19,fatigu,1
+fever,lost my tast,1
+abdominal tumor,fatigu,1
+fatigu,lost my tast,1
+asthma,fatigu,1
+covid pneumonia,fatigu,1
+fatigu,influenza,1
+appetit,fatigu,1
+fatigu,severe respiratory il,1
+fatigu,pandem,1
+fatigu,heart failur,1
+dry hacking cough,fatigu,1
+cancer,fatigu,1
+abdominal tumor,fever,1
+dislocated should,shaken awak,1
+coronavirus,pain,1
+dislocated should,pain,1
+blood running cold,phobia,1
+blood running cold,intense physical sensation of my blood running cold through my bodi,1
+blood running cold,cholera,1
+blood running cold,nightmar,1
+blood running cold,sensation of ice water is running through my vein,1
+blood running cold,gnashing teeth,1
+blood running cold,tetanus,1
+blood running cold,mental fear,1
+phobia,tickled throat sens,1
+amorphous black cat,tickled throat sens,1
+intense physical sensation of my blood running cold through my bodi,tickled throat sens,1
+cholera,tickled throat sens,1
+nightmar,tickled throat sens,1
+sensation of ice water is running through my vein,tickled throat sens,1
+gnashing teeth,tickled throat sens,1
+tetanus,tickled throat sens,1
+mental fear,tickled throat sens,1
+amorphous black cat,phobia,1
+intense physical sensation of my blood running cold through my bodi,phobia,1
+cholera,phobia,1
+nightmar,phobia,1
+phobia,sensation of ice water is running through my vein,1
+gnashing teeth,phobia,1
+phobia,tetanus,1
+mental fear,phobia,1
+amorphous black cat,intense physical sensation of my blood running cold through my bodi,1
+amorphous black cat,cholera,1
+amorphous black cat,nightmar,1
+amorphous black cat,blood running cold,1
+blood running cold,tickled throat sens,1
+amorphous black cat,gnashing teeth,1
+mental fear,physical sensation of my throat tickl,1
+active dream,nightmar,1
+hangov,nightmar,1
+felt the water around his legs heating up,sleepless night,1
+coronavirus,felt the water around his legs heating up,1
+coronavirus,sleepless night,1
+physical sensation of my throat tickl,rabi,1
+blood running cold,rabi,1
+rabi,tickled throat sens,1
+phobia,rabi,1
+amorphous black cat,rabi,1
+intense physical sensation of my blood running cold through my bodi,rabi,1
+cholera,rabi,1
+nightmar,rabi,1
+rabi,sensation of ice water is running through my vein,1
+gnashing teeth,rabi,1
+rabi,tetanus,1
+mental fear,rabi,1
+blood running cold,physical sensation of my throat tickl,1
+physical sensation of my throat tickl,tickled throat sens,1
+phobia,physical sensation of my throat tickl,1
+amorphous black cat,physical sensation of my throat tickl,1
+intense physical sensation of my blood running cold through my bodi,physical sensation of my throat tickl,1
+cholera,physical sensation of my throat tickl,1
+nightmar,physical sensation of my throat tickl,1
+physical sensation of my throat tickl,sensation of ice water is running through my vein,1
+gnashing teeth,physical sensation of my throat tickl,1
+physical sensation of my throat tickl,tetanus,1
+amorphous black cat,sensation of ice water is running through my vein,1
+amorphous black cat,tetanus,1
+pain,shaken awak,1
+cannot mov,covid 19,1
+corona,trouble breath,1
+corona,sore throat,1
+covid 19,trouble breath,1
+covid,mentally unst,1
+mentally unst,virus,1
+feeling very anxi,mentally unst,1
+covid,feeling very anxi,1
+feeling very anxi,virus,1
+not being able to breath,started to run out of breath,1
+feel myself running out of breath,not being able to breath,1
+not being able to breath,stress,1
+feel myself running out of breath,started to run out of breath,1
+started to run out of breath,stress,1
+feel myself running out of breath,stress,1
+feeling very shaken,increasingly frighten,1
+panicked breath,racing heart,1
+adhd,feel ashamed and dirti,1
+drown,stress,1
+civid 19 germ,cold sweat,1
+terrified and scream,throat was sore from scream,1
+depress,dizzi,1
+depress,tingl,1
+depress,trouble breath,1
+depress,panic attack,1
+depress,trembling all ov,1
+depress,night terror,1
+depress,trembl,1
+cannot breathe in or out,covid 19,1
+cannot breathe in or out,cannot mov,1
+amorphous black cat,mental fear,1
+coronaphob,covid 19,1
+cholera,intense physical sensation of my blood running cold through my bodi,1
+intense physical sensation of my blood running cold through my bodi,nightmar,1
+intense physical sensation of my blood running cold through my bodi,sensation of ice water is running through my vein,1
+gnashing teeth,intense physical sensation of my blood running cold through my bodi,1
+intense physical sensation of my blood running cold through my bodi,tetanus,1
+intense physical sensation of my blood running cold through my bodi,mental fear,1
+cholera,nightmar,1
+cholera,sensation of ice water is running through my vein,1
+cholera,gnashing teeth,1
+cholera,tetanus,1
+cholera,mental fear,1
+nightmar,sensation of ice water is running through my vein,1
+gnashing teeth,nightmar,1
+nightmar,tetanus,1
+mental fear,nightmar,1
+gnashing teeth,sensation of ice water is running through my vein,1
+sensation of ice water is running through my vein,tetanus,1
+mental fear,sensation of ice water is running through my vein,1
+gnashing teeth,tetanus,1
+gnashing teeth,mental fear,1
+mental fear,tetanus,1
+uterine canc,virus,1
+burning up,pressure in my chest,1
+anxieti,pressure in my chest,1
+anxieti,burning up,1
+cannot mov,coronaphob,1
+cannot breathe in or out,coronaphob,1
+active dream,hangov,1
+deeply sad,nightmar,1
+deeply sad,hangov,1
+dread,unable to reach loved on,1
+anxieti,feeling is mourn,1
+anxieti,unable to reach loved on,1
+feeling is mourn,unable to reach loved on,1
+fear,feeling is mourn,1
+fear,unable to reach loved on,1
+corona virus,stress,1
+coughing up,coughing up blood,1
+claustrophobia,virus,1
+claustrophobia,everything got dark,1
+everything got dark,virus,1
+covid 19,felt il,1
+violenc,virus,1
+lost their ability to recal,virus,1
+anxiety dream,virus,1
+subconscious issu,virus,1
+anxieti,lost their ability to recal,1
+lost their ability to recal,nightmar,1
+anxiety dream,lost their ability to recal,1
+coronavirus,lost their ability to recal,1
+corona virus,lost their ability to recal,1
+lost their ability to recal,subconscious issu,1
+anxieti,anxiety dream,1
+anxieti,subconscious issu,1
+anxiety dream,nightmar,1
+corona virus,nightmar,1
+nightmar,subconscious issu,1
+anxiety dream,coronavirus,1
+dread,fear,1
+dread,feeling is mourn,1
+active dream,deeply sad,1
+anxieti,dread,1
+angry and fear,shaking with emot,1
+angry and fear,fall asleep,1
+felt trap,isol,1
+felt trap,shame,1
+anxious,felt trap,1
+fear,felt trap,1
+isol,shame,1
+anxious,isol,1
+fear,isol,1
+anxious,shame,1
+anxious,fear,1
+awkward,uncertainti,1
+coronavirus,uncertainti,1
+feelings of sham,uncertainti,1
+awkward,coronavirus,1
+awkward,feelings of sham,1
+coronavirus,feelings of sham,1
+covid,zombi,1
+covid,very upset and frighten,1
+very upset and frighten,zombi,1
+pandemia,vivid dream,1
+virus,vivid dream,1
+pandemia,virus,1
+covid 19,pandemia,1
+cough,sounded like a loud man cough,1
+corona,sounded like a loud man cough,1
+haze,virus,1
+anxiety dream,corona virus,1
+anxiety dream,subconscious issu,1
+coronavirus,subconscious issu,1
+corona virus,subconscious issu,1
+feel a little weak,virus,1
+slow breath,virus,1
+muscle sor,virus,1
+body temperature was high,virus,1
+covid 19,feel a little weak,1
+covid 19,slow breath,1
+covid 19,muscle sor,1
+body temperature was high,covid 19,1
+feel a little weak,slow breath,1
+feel a little weak,muscle sor,1
+anxieti,feel a little weak,1
+feel a little weak,sweat,1
+body temperature was high,feel a little weak,1
+muscle sor,slow breath,1
+anxieti,slow breath,1
+slow breath,sweat,1
+body temperature was high,slow breath,1
+anxieti,muscle sor,1
+muscle sor,sweat,1
+body temperature was high,muscle sor,1
+anxieti,body temperature was high,1
+body temperature was high,sweat,1
+notice the grass is muddi,notice the ground is now uneven and black,1
+deeply sad,wake my heart pound,1
+active dream,wake my heart pound,1
+hangov,wake my heart pound,1
+nightmar,wake my heart pound,1
+body temperature was high,dry mouth,1
+dry mouth,sweat,1
+anxieti,dry mouth,1
+infectious diseas,very cold,1
+coronavirus,ooo,1
+panick,water damag,1
+virus,water damag,1
+panic,virus,1
+lack of fear and sad,panic,1
+panic,very cold,1
+infectious diseas,panic,1
+lack of fear and sad,virus,1
+very cold,virus,1
+infectious diseas,virus,1
+lack of fear and sad,very cold,1
+infectious diseas,lack of fear and sad,1
+nightmar,teeth falling out,1
+dry mouth,muscle sor,1
+feeling so lonely and isol,somewhat panicked and homesick,1
+pandem,somewhat panicked and homesick,1
+isol,somewhat panicked and homesick,1
+feeling so lonely and isol,pandem,1
+feeling so lonely and isol,isol,1
+isol,pandem,1
+dark shadowy shape was reaching across,horns and claw,1
+covid,dark shadowy shape was reaching across,1
+covid,horns and claw,1
+dry mouth,virus,1
+dry mouth,feel a little weak,1
+dry mouth,slow breath,1
+depress,heart rate slowing down,1
+depress,heart was rac,1
+depress,depressed and exhaust,1
+bleed,panic attack,1
+chest was hurt,panic attack,1
+breathing got insan,heart started rac,1
+ears started to ble,heart started rac,1
+bleed,heart started rac,1
+chest hurt,heart started rac,1
+chest was hurt,heart started rac,1
+breathing got insan,ears started to ble,1
+bleed,breathing got insan,1
+breathing got insan,chest hurt,1
+breathing got insan,chest was hurt,1
+bleed,ears started to ble,1
+chest hurt,ears started to ble,1
+chest was hurt,ears started to ble,1
+bleed,chest hurt,1
+bleed,chest was hurt,1
+chest hurt,chest was hurt,1
+arms and legs were thrashing and grasp,unable to gain my sense of direct,1
+arms and legs were thrashing and grasp,could feel my chest tighten,1
+arms and legs were thrashing and grasp,lungs were empti,1
+arms and legs were thrashing and grasp,heart was irregular,1
+arms and legs were thrashing and grasp,choke,1
+arms and legs were thrashing and grasp,drenched in sweat and cough,1
+arms and legs were thrashing and grasp,hyperventil,1
+arms and legs were thrashing and grasp,felt myself being swept closer and closer to the edg,1
+could feel my chest tighten,unable to gain my sense of direct,1
+lungs were empti,unable to gain my sense of direct,1
+heart was irregular,unable to gain my sense of direct,1
+chest hurt,panic attack,1
+ears started to ble,panic attack,1
+huge tears were rolling out of his ey,pandem,1
+breathing got insan,panic attack,1
+big tear,pandem,1
+earthworm out of my nos,severe pneumonia,1
+pain,sweating and my heart was beating fast,1
+my head was hurt,pain,1
+pain,panic attack,1
+heart started rac,pain,1
+breathing got insan,pain,1
+ears started to ble,pain,1
+bleed,pain,1
+chest hurt,pain,1
+chest was hurt,pain,1
+my head was hurt,sweating and my heart was beating fast,1
+panic attack,sweating and my heart was beating fast,1
+heart started rac,sweating and my heart was beating fast,1
+breathing got insan,sweating and my heart was beating fast,1
+ears started to ble,sweating and my heart was beating fast,1
+bleed,sweating and my heart was beating fast,1
+chest hurt,sweating and my heart was beating fast,1
+chest was hurt,sweating and my heart was beating fast,1
+my head was hurt,panic attack,1
+heart started rac,my head was hurt,1
+breathing got insan,my head was hurt,1
+ears started to ble,my head was hurt,1
+bleed,my head was hurt,1
+chest hurt,my head was hurt,1
+chest was hurt,my head was hurt,1
+heart started rac,panic attack,1
+choke,unable to gain my sense of direct,1
+drenched in sweat and cough,unable to gain my sense of direct,1
+hyperventil,unable to gain my sense of direct,1
+felt myself being swept closer and closer to the edg,unable to gain my sense of direct,1
+clouds of ash,volcano,1
+volcano,volcano erupt,1
+clouds of ash,volcano erupt,1
+corona,unable to find my phon,1
+heart condit,stroke,1
+afraid to go to sleep,violent and alien,1
+afraid to go to sleep,screamed and moan,1
+screamed and moan,violent and alien,1
+unable to breath,woke up in b,1
+paw bleed,sad,1
+fear,paw bleed,1
+cancer,paw bleed,1
+fear,sad,1
+cancer,sad,1
+cancer,fear,1
+pregnanc,virus,1
+overactive sense of oblig,wake up very annoy,1
+overactive sense of oblig,tire,1
+tire,wake up very annoy,1
+cough,dislocated joint,1
+dislocated joint,pain,1
+dislocated joint,shaken awak,1
+dislocated joint,dislocated should,1
+coronavirus,dislocated joint,1
+cough,pain,1
+cough,shaken awak,1
+cough,dislocated should,1
+infect,volcano erupt,1
+clouds of ash,infect,1
+infect,volcano,1
+drenched in sweat and cough,heart was irregular,1
+could feel my chest tighten,lungs were empti,1
+could feel my chest tighten,heart was irregular,1
+choke,could feel my chest tighten,1
+could feel my chest tighten,drenched in sweat and cough,1
+could feel my chest tighten,hyperventil,1
+could feel my chest tighten,felt myself being swept closer and closer to the edg,1
+heart was irregular,lungs were empti,1
+choke,lungs were empti,1
+drenched in sweat and cough,lungs were empti,1
+hyperventil,lungs were empti,1
+felt myself being swept closer and closer to the edg,lungs were empti,1
+choke,heart was irregular,1
+heart was irregular,hyperventil,1
+maggot,pandem,1
+felt myself being swept closer and closer to the edg,heart was irregular,1
+choke,drenched in sweat and cough,1
+choke,hyperventil,1
+choke,felt myself being swept closer and closer to the edg,1
+drenched in sweat and cough,hyperventil,1
+drenched in sweat and cough,felt myself being swept closer and closer to the edg,1
+felt myself being swept closer and closer to the edg,hyperventil,1
+awoke very anxi,covid,1
+rolling around on the floor,throwing up,1
+covid,sar,1
+greenish color,type a flu,1
+maggot,virus,1
+big tear,huge tears were rolling out of his ey,1
+big tear,let out a loud cry of terrible pain,1
+couldnt concentrate on the simplest task,depress,1
+couldnt concentrate on the simplest task,trouble breath,1
+panic attack,trembling all ov,1
+night terror,panic attack,1
+panic attack,trembl,1
+heart rate slowing down,panic attack,1
+heart was rac,panic attack,1
+depressed and exhaust,panic attack,1
+couldnt concentrate on the simplest task,panic attack,1
+lips went tingly and partly numb,panic attack,1
+night terror,trembling all ov,1
+trembl,trembling all ov,1
+heart rate slowing down,trembling all ov,1
+heart was rac,trembling all ov,1
+depressed and exhaust,trembling all ov,1
+couldnt concentrate on the simplest task,trembling all ov,1
+lips went tingly and partly numb,trembling all ov,1
+night terror,trembl,1
+heart rate slowing down,night terror,1
+heart was rac,night terror,1
+depressed and exhaust,night terror,1
+couldnt concentrate on the simplest task,night terror,1
+lips went tingly and partly numb,night terror,1
+heart rate slowing down,trembl,1
+heart was rac,trembl,1
+depressed and exhaust,trembl,1
+couldnt concentrate on the simplest task,trembl,1
+lips went tingly and partly numb,trembl,1
+heart rate slowing down,heart was rac,1
+lips went tingly and partly numb,trouble breath,1
+depressed and exhaust,trouble breath,1
+let out a loud cry of terrible pain,pandem,1
+heart was rac,trouble breath,1
+depress,lips went tingly and partly numb,1
+dizzi,tingl,1
+dizzi,trouble breath,1
+dizzi,panic attack,1
+dizzi,trembling all ov,1
+dizzi,night terror,1
+dizzi,trembl,1
+dizzi,heart rate slowing down,1
+dizzi,heart was rac,1
+depressed and exhaust,dizzi,1
+couldnt concentrate on the simplest task,dizzi,1
+dizzi,lips went tingly and partly numb,1
+tingl,trouble breath,1
+panic attack,tingl,1
+tingl,trembling all ov,1
+night terror,tingl,1
+tingl,trembl,1
+heart rate slowing down,tingl,1
+heart was rac,tingl,1
+depressed and exhaust,tingl,1
+couldnt concentrate on the simplest task,tingl,1
+lips went tingly and partly numb,tingl,1
+panic attack,trouble breath,1
+trembling all ov,trouble breath,1
+night terror,trouble breath,1
+trembl,trouble breath,1
+heart rate slowing down,trouble breath,1
+depressed and exhaust,heart rate slowing down,1
+couldnt concentrate on the simplest task,heart rate slowing down,1
+heart rate slowing down,lips went tingly and partly numb,1
+depressed and exhaust,heart was rac,1
+large pimpl,pus started coming out of my right ey,1
+bumps on my legs and torso,pus filled blist,1
+bumps on my legs and torso,covid19,1
+bumps on my legs and torso,light yellow looking pus,1
+bumps on my legs and torso,large pimpl,1
+covid19,pus filled blist,1
+light yellow looking pus,pus filled blist,1
+large pimpl,pus filled blist,1
+covid19,light yellow looking pus,1
+covid19,large pimpl,1
+large pimpl,light yellow looking pus,1
+covid 19,unable to mov,1
+sore throat,unable to mov,1
+eyes are all r,unable to mov,1
+motionless,unable to mov,1
+covid 19,eyes are all r,1
+covid 19,motionless,1
+eyes are all r,sore throat,1
+motionless,sore throat,1
+eyes are all r,motionless,1
+asphyxi,coronavirus,1
+asphyxi,heart pound,1
+coronavirus,heart pound,1
+aggressive critt,teeth on its undersid,1
+aggressive critt,agit,1
+agit,teeth on its undersid,1
+huge tears were rolling out of his ey,let out a loud cry of terrible pain,1
+light yellow looking pus,pus started coming out of my right ey,1
+covid19,pus started coming out of my right ey,1
+pus filled blist,pus started coming out of my right ey,1
+teeth felt loos,teeth were all falling out,1
+couldnt concentrate on the simplest task,heart was rac,1
+heart was rac,lips went tingly and partly numb,1
+couldnt concentrate on the simplest task,depressed and exhaust,1
+depressed and exhaust,lips went tingly and partly numb,1
+couldnt concentrate on the simplest task,lips went tingly and partly numb,1
+teeth felt loos,virus,1
+noticed that one of my teeth was loos,virus,1
+teeth were all falling out,virus,1
+spitting out teeth,virus,1
+noticed that one of my teeth was loos,teeth felt loos,1
+anxieti,teeth felt loos,1
+corona virus,teeth felt loos,1
+spitting out teeth,teeth felt loos,1
+bumps on my legs and torso,pus started coming out of my right ey,1
+anxieti,noticed that one of my teeth was loos,1
+corona virus,noticed that one of my teeth was loos,1
+noticed that one of my teeth was loos,teeth were all falling out,1
+noticed that one of my teeth was loos,spitting out teeth,1
+anxieti,teeth were all falling out,1
+anxieti,spitting out teeth,1
+corona virus,teeth were all falling out,1
+corona virus,spitting out teeth,1
+spitting out teeth,teeth were all falling out,1
+dark turbid wav,waves stay stat,1
+foreboding wav,waves stay stat,1
+dark turbid wav,foreboding wav,1
+arthritic pain in my hip,pain in my right should,1
